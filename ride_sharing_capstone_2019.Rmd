@@ -1,0 +1,143 @@
+---
+title: "Ride-Sharing Trends Analysis – 2019"
+author: "Pooja Kapoor"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 📊 Project Overview
+
+This project analyzes ride-sharing data for the year 2019. Using SQL and Tableau, I explored patterns in ride volume, user behavior, and time-based trends to uncover actionable insights for stakeholders.
+
+---
+
+## 🛠️ Tools Used
+
+- Google BigQuery (SQL) – Data cleaning & transformation  
+- RStudio (R Markdown) – Documentation  
+- Tableau Public – Visualization
+
+---
+
+## 📥 Step 1: Data Cleaning (SQL in BigQuery)
+
+The data was first cleaned and transformed in BigQuery:
+
+- Combined quarterly ride datasets into one (`2019Combined`)
+- Extracted useful time features:
+  - `trip_month`, `trip_hour`, `trip_day`, `trip_date`
+- Converted `tripduration` from seconds to minutes
+- Cleaned missing values in `gender` and `usertype`
+- Calculated age from `birthyear`
+
+**Sample SQL:**
+
+```sql
+SELECT
+  *,
+  ROUND(tripduration / 60.0, 2) AS tripduration_mins,
+  DATE(start_time) AS trip_date,
+  EXTRACT(MONTH FROM start_time) AS trip_month,
+  EXTRACT(HOUR FROM start_time) AS trip_hour,
+  EXTRACT(DAY FROM start_time) AS trip_day,
+  EXTRACT(YEAR FROM CURRENT_DATE()) - birthyear AS age,
+  CASE
+    WHEN gender IS NULL OR TRIM(gender) = '' THEN 'Unknown'
+    ELSE gender
+  END AS gender_cleaned,
+  CASE
+    WHEN usertype IS NULL OR TRIM(usertype) = '' THEN 'Unknown'
+    ELSE usertype
+  END AS usertype_cleaned
+FROM
+  `project.dataset.2019Combined`
+```
+
+---
+
+## 🔍 Step 2: Exploratory Data Analysis (EDA)
+
+### 2.1 Monthly Ride Volume
+
+```sql
+SELECT
+  FORMAT_DATE('%B', trip_date) AS month_name,
+  EXTRACT(MONTH FROM trip_date) AS month_num,
+  usertype_cleaned,
+  COUNT(*) AS trip_rides
+FROM
+  `project.dataset.2019Combined_cleaned`
+GROUP BY
+  month_name, month_num, usertype_cleaned
+ORDER BY
+  month_num
+```
+
+### 2.2 Avg Trip Duration by Usertype
+
+```sql
+SELECT
+  usertype_cleaned,
+  ROUND(AVG(tripduration_mins), 2) AS avg_trip_duration_mins,
+  COUNT(*) AS total_rides
+FROM
+  `project.dataset.2019Combined_cleaned`
+GROUP BY
+  usertype_cleaned
+```
+
+### 2.3 Peak Usage Heatmap: Day vs Hour
+
+```sql
+SELECT
+  FORMAT_DATE('%A', trip_date) AS day_of_week,
+  EXTRACT(HOUR FROM start_time) AS trip_hour,
+  COUNT(*) AS trip_rides
+FROM
+  `project.dataset.2019Combined_cleaned`
+GROUP BY
+  day_of_week, trip_hour
+```
+
+---
+
+## 📊 Step 3: Tableau Dashboard
+
+Visuals created in Tableau:
+
+- Line Chart: Monthly Ride Volume by Usertype
+- Bar Chart: Avg Trip Duration by Usertype (Monthly)
+- Heatmap: Hour vs Day Ride Density
+- Pie Chart: Gender or Usertype Share
+
+🔗 [Link to Published Tableau Dashboard] *(https://public.tableau.com/app/profile/pooja.kapoor3698)*
+
+---
+
+## 💡 Key Insights
+
+- Customers take longer trips, but Subscribers take more rides
+- Ride volume peaks during summer (June–August)
+- Weekday rush hours (7–9 AM) show highest usage
+- Gender distribution shows slight skew toward [e.g. Male/Female]
+
+---
+
+## 💼 Business Impact
+
+- Marketing can target casual riders in summer months
+- Product teams can improve service availability during peak hours
+- Gender-specific campaigns may help balance usage
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates the use of SQL for scalable data processing, Tableau for visual storytelling, and R Markdown for documentation — showcasing full-stack data analysis skills.
