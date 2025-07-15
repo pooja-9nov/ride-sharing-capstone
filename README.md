@@ -25,5 +25,12 @@ This project analyzes a full year of ride-sharing data (2019) to explore usage p
 ## 🌐 Tableau Dashboard
 [🔗 View it on Tableau Public](https://public.tableau.com/app/profile/pooja.kapoor3698)
 
+## 📸 Dashboard Previews
+
+### Monthly Ride Trends
+![Monthly Rides](chart1_monthly_rides.png)
+
+### Peak Usage Heatmap
+![Heatmap](chart3_heatmap.png)
 ---
 **Author:** Pooja Kapoor
