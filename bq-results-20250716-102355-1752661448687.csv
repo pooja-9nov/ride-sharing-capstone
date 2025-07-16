@@ -1,0 +1,501 @@
+trip_id,start_time,end_time,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear,tripduration_mins,trip_date,trip_day,trip_month,trip_hour,age,gender_cleaned,usertype_cleaned
+25852161,2019-12-09 07:32:59 UTC,2019-12-09 07:35:36 UTC,1940,156,108,Halsted St & Polk St,109,900 W Harrison St,Subscriber,Male,1950,2.6,2019-12-09,9,12,7,75,Male,Subscriber
+24874378,2019-09-10 11:55:37 UTC,2019-09-10 12:04:01 UTC,3960,504,14,Morgan St & 18th St,109,900 W Harrison St,Customer,Male,2001,8.4,2019-09-10,10,9,11,24,Male,Customer
+25749737,2019-11-21 15:55:55 UTC,2019-11-21 15:59:21 UTC,1795,206,109,900 W Harrison St,21,Aberdeen St & Jackson Blvd,Customer,Male,2001,3.43,2019-11-21,21,11,15,24,Male,Customer
+25597909,2019-10-29 15:13:53 UTC,2019-10-29 15:21:14 UTC,3897,440,638,Clinton St & Jackson Blvd,80,Aberdeen St & Monroe St,Subscriber,Female,1951,7.33,2019-10-29,29,10,15,74,Female,Subscriber
+22366031,2019-04-19 16:17:14 UTC,2019-04-19 16:27:22 UTC,3084,608,40,LaSalle St & Adams St,80,Aberdeen St & Monroe St,Subscriber,Male,1958,10.13,2019-04-19,19,4,16,67,Male,Subscriber
+25101285,2019-09-23 08:23:00 UTC,2019-09-23 08:32:50 UTC,2990,590,91,Clinton St & Washington Blvd,346,Ada St & Washington Blvd,Subscriber,Male,1957,9.83,2019-09-23,23,9,8,68,Male,Subscriber
+23729502,2019-07-13 11:23:08 UTC,2019-07-13 12:08:58 UTC,1860,2750,90,Millennium Park,341,Adler Planetarium,Customer,Male,1955,45.83,2019-07-13,13,7,11,70,Male,Customer
+23656224,2019-07-10 01:08:07 UTC,2019-07-10 01:25:30 UTC,4834,1043,487,California Ave & Byron St,246,Ashland Ave & Belle Plaine Ave,Subscriber,Female,1959,17.38,2019-07-10,10,7,1,66,Female,Subscriber
+25297528,2019-10-06 09:58:21 UTC,2019-10-06 10:17:36 UTC,6404,1154,74,Kingsbury St & Erie St,210,Ashland Ave & Division St,Subscriber,Male,1957,19.23,2019-10-06,6,10,9,68,Male,Subscriber
+23739960,2019-07-13 17:21:50 UTC,2019-07-13 17:55:30 UTC,5682,2020,152,Lincoln Ave & Diversey Pkwy,347,Ashland Ave & Grace St,Subscriber,Male,1954,33.67,2019-07-13,13,7,17,71,Male,Subscriber
+22305220,2019-04-13 11:07:39 UTC,2019-04-13 11:39:02 UTC,1309,1883,486,Oakley Ave & Irving Park Rd,347,Ashland Ave & Grace St,Subscriber,Male,1954,31.38,2019-04-13,13,4,11,71,Male,Subscriber
+23303390,2019-06-22 14:40:38 UTC,2019-06-22 15:03:31 UTC,4790,1373,77,Clinton St & Madison St,119,Ashland Ave & Lake St (Temp),Customer,Male,2000,22.88,2019-06-22,22,6,14,25,Male,Customer
+21978894,2019-02-28 10:50:23 UTC,2019-02-28 11:07:38 UTC,2645,1035,405,Wentworth Ave & 35th St,547,Ashland Ave & Pershing Rd,Subscriber,Male,1948,17.25,2019-02-28,28,2,10,77,Male,Subscriber
+23191548,2019-06-16 11:00:53 UTC,2019-06-16 11:09:05 UTC,2598,492,257,Lincoln Ave & Waveland Ave,250,Ashland Ave & Wellington Ave,Subscriber,Male,1959,8.2,2019-06-16,16,6,11,66,Male,Subscriber
+24455858,2019-08-18 19:14:34 UTC,2019-08-18 19:15:55 UTC,2388,80,532,Austin Blvd & Lake St,532,Austin Blvd & Lake St,Customer,Male,2002,1.33,2019-08-18,18,8,19,23,Male,Customer
+23283884,2019-06-21 15:55:50 UTC,2019-06-21 16:13:14 UTC,5331,1044,597,Chicago Ave & Washington St,596,Benson Ave & Church St,Subscriber,Female,1957,17.4,2019-06-21,21,6,15,68,Female,Subscriber
+22434671,2019-04-24 18:20:16 UTC,2019-04-24 18:25:07 UTC,4432,291,600,Dodge Ave & Church St,596,Benson Ave & Church St,Subscriber,Male,1954,4.85,2019-04-24,24,4,18,71,Male,Subscriber
+25278698,2019-10-04 16:11:18 UTC,2019-10-04 16:18:44 UTC,2548,445,605,University Library (NU),596,Benson Ave & Church St,Subscriber,Female,1959,7.42,2019-10-04,4,10,16,66,Female,Subscriber
+22913066,2019-05-31 15:51:32 UTC,2019-05-31 16:07:36 UTC,2240,964,113,Bissell St & Armitage Ave,113,Bissell St & Armitage Ave,Subscriber,Male,1958,16.07,2019-05-31,31,5,15,67,Male,Subscriber
+25859467,2019-12-10 07:36:09 UTC,2019-12-10 07:38:39 UTC,4834,149,225,Halsted St & Dickens Ave,113,Bissell St & Armitage Ave,Subscriber,,1955,2.48,2019-12-10,10,12,7,70,Unknown,Subscriber
+23433796,2019-06-28 17:53:36 UTC,2019-06-28 18:28:46 UTC,4780,2110,57,Clinton St & Roosevelt Rd,129,Blue Island Ave & 18th St,Subscriber,Female,2001,35.17,2019-06-28,28,6,17,24,Female,Subscriber
+22166660,2019-03-29 14:44:39 UTC,2019-03-29 14:50:31 UTC,5982,352,294,Broadway & Berwyn Ave,295,Broadway & Argyle St,Customer,Male,1955,5.87,2019-03-29,29,3,14,70,Male,Customer
+25011433,2019-09-17 18:34:40 UTC,2019-09-17 18:46:01 UTC,4129,680,256,Broadway & Sheridan Rd,295,Broadway & Argyle St,Subscriber,Female,1957,11.33,2019-09-17,17,9,18,68,Female,Subscriber
+21930267,2019-02-16 13:57:03 UTC,2019-02-16 14:27:16 UTC,1187,1813,13,Wilton Ave & Diversey Pkwy,295,Broadway & Argyle St,Subscriber,Female,1959,30.22,2019-02-16,16,2,13,66,Female,Subscriber
+24912789,2019-09-12 13:12:38 UTC,2019-09-12 13:19:27 UTC,1981,409,117,Wilton Ave & Belmont Ave,300,Broadway & Barry Ave,Subscriber,Male,1949,6.82,2019-09-12,12,9,13,76,Male,Subscriber
+23070668,2019-06-08 18:39:31 UTC,2019-06-08 18:42:46 UTC,87,195,303,Broadway & Cornelia Ave,296,Broadway & Belmont Ave,Subscriber,Male,1957,3.25,2019-06-08,8,6,18,68,Male,Subscriber
+22759925,2019-05-22 10:43:37 UTC,2019-05-22 10:52:40 UTC,241,543,254,Pine Grove Ave & Irving Park Rd,296,Broadway & Belmont Ave,Subscriber,Female,1956,9.05,2019-05-22,22,5,10,69,Female,Subscriber
+23651035,2019-07-09 18:21:35 UTC,2019-07-09 18:29:18 UTC,5145,462,325,Clark St & Winnemac Ave,294,Broadway & Berwyn Ave,Subscriber,Male,1952,7.7,2019-07-09,9,7,18,73,Male,Subscriber
+24166707,2019-08-04 12:43:57 UTC,2019-08-04 13:17:50 UTC,5224,2032,177,Theater on the Lake,294,Broadway & Berwyn Ave,Subscriber,Male,1954,33.87,2019-08-04,4,8,12,71,Male,Subscriber
+24206621,2019-08-06 09:06:14 UTC,2019-08-06 09:16:04 UTC,937,589,229,Southport Ave & Roscoe St,303,Broadway & Cornelia Ave,Subscriber,Male,1955,9.82,2019-08-06,6,8,9,70,Male,Subscriber
+22665987,2019-05-15 10:50:22 UTC,2019-05-15 11:28:32 UTC,6185,2290,625,Chicago Ave & Dempster St,454,Broadway & Granville Ave,Subscriber,Male,1953,38.17,2019-05-15,15,5,10,72,Male,Subscriber
+22009606,2019-03-07 13:53:13 UTC,2019-03-07 13:56:49 UTC,1641,216,458,Broadway & Thorndale Ave,461,Broadway & Ridge Ave,Subscriber,Male,1954,3.6,2019-03-07,7,3,13,71,Male,Subscriber
+22216565,2019-04-05 08:34:48 UTC,2019-04-05 08:37:10 UTC,1605,142,458,Broadway & Thorndale Ave,461,Broadway & Ridge Ave,Subscriber,Male,1954,2.37,2019-04-05,5,4,8,71,Male,Subscriber
+24347913,2019-08-13 07:40:42 UTC,2019-08-13 07:44:56 UTC,151,253,231,Sheridan Rd & Montrose Ave,256,Broadway & Sheridan Rd,Subscriber,Female,1957,4.22,2019-08-13,13,8,7,68,Female,Subscriber
+22110738,2019-03-22 16:59:06 UTC,2019-03-22 17:27:01 UTC,957,1675,300,Broadway & Barry Ave,458,Broadway & Thorndale Ave,Subscriber,Male,1955,27.92,2019-03-22,22,3,16,70,Male,Subscriber
+25879167,2019-12-13 10:27:01 UTC,2019-12-13 10:42:36 UTC,6432,935,253,Winthrop Ave & Lawrence Ave,458,Broadway & Thorndale Ave,Subscriber,Male,1958,15.58,2019-12-13,13,12,10,67,Male,Subscriber
+22444996,2019-04-25 15:00:26 UTC,2019-04-25 15:09:06 UTC,3324,520,246,Ashland Ave & Belle Plaine Ave,304,Broadway & Waveland Ave,Subscriber,Female,1959,8.67,2019-04-25,25,4,15,66,Female,Subscriber
+23955277,2019-07-25 13:37:36 UTC,2019-07-25 14:00:42 UTC,640,1385,304,Broadway & Waveland Ave,304,Broadway & Waveland Ave,Subscriber,Male,1957,23.08,2019-07-25,25,7,13,68,Male,Subscriber
+25931760,2019-12-23 15:25:53 UTC,2019-12-23 15:57:22 UTC,3721,1889,85,Michigan Ave & Oak St,304,Broadway & Waveland Ave,Subscriber,Male,1952,31.48,2019-12-23,23,12,15,73,Male,Subscriber
+24423312,2019-08-16 18:18:12 UTC,2019-08-16 18:52:36 UTC,189,2063,454,Broadway & Granville Ave,293,Broadway & Wilson Ave,Customer,Female,2000,34.38,2019-08-16,16,8,18,25,Female,Customer
+24121512,2019-08-02 13:36:44 UTC,2019-08-02 13:49:07 UTC,2597,743,3,Shedd Aquarium,2,Buckingham Fountain,Customer,Female,2000,12.38,2019-08-02,2,8,13,25,Female,Customer
+23167062,2019-06-14 12:45:22 UTC,2019-06-14 13:03:47 UTC,5738,1105,2,Buckingham Fountain (Temp),2,Buckingham Fountain (Temp),Subscriber,Male,1951,18.42,2019-06-14,14,6,12,74,Male,Subscriber
+24551377,2019-08-23 16:40:57 UTC,2019-08-23 16:58:47 UTC,6338,1069,632,Clark St & Newport St,332,Burling St (Halsted) & Diversey Pkwy (Temp),Customer,Male,1950,17.82,2019-08-23,23,8,16,75,Male,Customer
+25415578,2019-10-14 14:44:15 UTC,2019-10-14 15:04:52 UTC,2431,1237,232,Pine Grove Ave & Waveland Ave,332,Burling St (Halsted) & Diversey Pkwy (Temp),Subscriber,Male,1959,20.62,2019-10-14,14,10,14,66,Male,Subscriber
+25800304,2019-12-01 11:49:53 UTC,2019-12-01 12:16:54 UTC,634,1620,419,Lake Park Ave & 53rd St,4,Burnham Harbor,Subscriber,Male,1958,27,2019-12-01,1,12,11,67,Male,Subscriber
+24215790,2019-08-06 17:26:30 UTC,2019-08-06 17:57:52 UTC,2659,1882,345,Lake Park Ave & 56th St,4,Burnham Harbor,Subscriber,Male,1955,31.37,2019-08-06,6,8,17,70,Male,Subscriber
+24326934,2019-08-11 16:48:40 UTC,2019-08-11 18:25:59 UTC,6305,5838,197,Michigan Ave & Madison St,4,Burnham Harbor,Customer,Male,1954,97.3,2019-08-11,11,8,16,71,Male,Customer
+24753187,2019-09-03 15:18:01 UTC,2019-09-03 15:50:34 UTC,5995,1952,281,Western Ave & 24th St,442,California Ave & 23rd Pl,Subscriber,Male,1948,32.53,2019-09-03,3,9,15,77,Male,Subscriber
+22328034,2019-04-16 09:55:10 UTC,2019-04-16 09:58:18 UTC,5982,188,185,Stave St & Armitage Ave,259,California Ave & Francis Pl,Subscriber,Male,1957,3.13,2019-04-16,16,4,9,68,Male,Subscriber
+22027699,2019-03-11 15:01:30 UTC,2019-03-11 15:11:38 UTC,4223,608,258,Logan Blvd & Elston Ave,123,California Ave & Milwaukee Ave,Subscriber,Female,1953,10.13,2019-03-11,11,3,15,72,Female,Subscriber
+25238461,2019-10-01 18:05:40 UTC,2019-10-01 18:20:05 UTC,281,865,196,Cityfront Plaza Dr & Pioneer Ct,192,Canal St & Adams St,Subscriber,Male,1959,14.42,2019-10-01,1,10,18,66,Male,Subscriber
+21939711,2019-02-19 17:15:04 UTC,2019-02-19 17:33:09 UTC,6015,1085,196,Cityfront Plaza Dr & Pioneer Ct,192,Canal St & Adams St,Subscriber,Male,1959,18.08,2019-02-19,19,2,17,66,Male,Subscriber
+22786761,2019-05-23 16:36:42 UTC,2019-05-23 16:44:29 UTC,2379,467,133,Kingsbury St & Kinzie St,192,Canal St & Adams St,Subscriber,Male,1958,7.78,2019-05-23,23,5,16,67,Male,Subscriber
+25835478,2019-12-06 06:13:43 UTC,2019-12-06 06:17:19 UTC,2316,215,283,LaSalle St & Jackson Blvd,192,Canal St & Adams St,Subscriber,Female,1957,3.58,2019-12-06,6,12,6,68,Female,Subscriber
+23353030,2019-06-25 10:45:42 UTC,2019-06-25 10:51:18 UTC,5981,336,98,LaSalle St & Washington St,192,Canal St & Adams St,Subscriber,Female,1957,5.6,2019-06-25,25,6,10,68,Female,Subscriber
+24393905,2019-08-15 13:52:43 UTC,2019-08-15 14:19:21 UTC,4117,1597,85,Michigan Ave & Oak St,192,Canal St & Adams St,Customer,Female,2000,26.62,2019-08-15,15,8,13,25,Female,Customer
+21895156,2019-02-07 17:32:29 UTC,2019-02-07 17:43:21 UTC,5483,652,43,Michigan Ave & Washington St,192,Canal St & Adams St,Subscriber,Male,1957,10.87,2019-02-07,7,2,17,68,Male,Subscriber
+23957886,2019-07-25 16:07:24 UTC,2019-07-25 16:12:48 UTC,4237,324,233,Sangamon St & Washington Blvd,192,Canal St & Adams St,Subscriber,Male,1950,5.4,2019-07-25,25,7,16,75,Male,Subscriber
+25261922,2019-10-03 16:12:38 UTC,2019-10-03 16:19:05 UTC,657,387,233,Sangamon St & Washington Blvd,192,Canal St & Adams St,Subscriber,Male,1950,6.45,2019-10-03,3,10,16,75,Male,Subscriber
+24682523,2019-08-30 14:55:56 UTC,2019-08-30 15:01:30 UTC,2784,334,233,Sangamon St & Washington Blvd,192,Canal St & Adams St,Subscriber,Male,1950,5.57,2019-08-30,30,8,14,75,Male,Subscriber
+21776185,2019-01-07 13:10:31 UTC,2019-01-07 13:17:27 UTC,1128,416,233,Sangamon St & Washington Blvd (*),192,Canal St & Adams St,Subscriber,Male,1948,6.93,2019-01-07,7,1,13,77,Male,Subscriber
+23336506,2019-06-24 16:00:31 UTC,2019-06-24 16:06:31 UTC,6059,360,233,Sangamon St & Washington Blvd (*),192,Canal St & Adams St,Subscriber,Male,1950,6,2019-06-24,24,6,16,75,Male,Subscriber
+25549964,2019-10-24 17:00:58 UTC,2019-10-24 17:07:38 UTC,1032,399,39,Wabash Ave & Adams St,192,Canal St & Adams St,Subscriber,Male,1959,6.65,2019-10-24,24,10,17,66,Male,Subscriber
+24831035,2019-09-07 15:04:04 UTC,2019-09-07 15:08:34 UTC,315,269,414,Canal St & Taylor St,75,Canal St & Jackson Blvd,Customer,Male,2001,4.48,2019-09-07,7,9,15,24,Male,Customer
+23968877,2019-07-26 00:21:30 UTC,2019-07-26 00:25:08 UTC,2692,218,169,Canal St & Harrison St,174,Canal St & Madison St,Subscriber,Male,1952,3.63,2019-07-26,26,7,0,73,Male,Subscriber
+22755320,2019-05-22 00:26:18 UTC,2019-05-22 00:29:13 UTC,2673,175,75,Canal St & Jackson Blvd,174,Canal St & Madison St,Subscriber,Male,1952,2.92,2019-05-22,22,5,0,73,Male,Subscriber
+25693478,2019-11-12 12:01:57 UTC,2019-11-12 12:03:37 UTC,3379,99,91,Clinton St & Washington Blvd,174,Canal St & Madison St,Subscriber,Male,1942,1.65,2019-11-12,12,11,12,83,Male,Subscriber
+24078799,2019-07-31 16:12:05 UTC,2019-07-31 16:17:22 UTC,1407,316,286,Franklin St & Adams St (Temp),174,Canal St & Madison St,Subscriber,Female,1956,5.27,2019-07-31,31,7,16,69,Female,Subscriber
+22132540,2019-03-26 06:39:03 UTC,2019-03-26 06:51:39 UTC,4070,756,255,Indiana Ave & Roosevelt Rd,174,Canal St & Madison St,Subscriber,Male,1952,12.6,2019-03-26,26,3,6,73,Male,Subscriber
+22283274,2019-04-11 06:43:19 UTC,2019-04-11 06:57:02 UTC,5227,823,255,Indiana Ave & Roosevelt Rd,174,Canal St & Madison St,Subscriber,Male,1952,13.72,2019-04-11,11,4,6,73,Male,Subscriber
+22035564,2019-03-12 14:11:38 UTC,2019-03-12 14:19:00 UTC,2795,442,283,LaSalle St & Jackson Blvd,174,Canal St & Madison St,Subscriber,Male,1954,7.37,2019-03-12,12,3,14,71,Male,Subscriber
+23408847,2019-06-27 16:56:43 UTC,2019-06-27 17:00:55 UTC,3443,252,98,LaSalle St & Washington St,174,Canal St & Madison St,Subscriber,Male,1956,4.2,2019-06-27,27,6,16,69,Male,Subscriber
+25404821,2019-10-13 14:18:11 UTC,2019-10-13 14:26:45 UTC,5458,513,45,Michigan Ave & Ida B Wells Dr,174,Canal St & Madison St,Customer,Male,2001,8.55,2019-10-13,13,10,14,24,Male,Customer
+21792385,2019-01-09 18:10:06 UTC,2019-01-09 18:19:50 UTC,2485,584,284,Michigan Ave & Jackson Blvd,174,Canal St & Madison St,Subscriber,Male,1953,9.73,2019-01-09,9,1,18,72,Male,Subscriber
+22981669,2019-06-04 16:15:13 UTC,2019-06-04 16:20:34 UTC,3527,321,197,Michigan Ave & Madison St,174,Canal St & Madison St,Subscriber,Male,1959,5.35,2019-06-04,4,6,16,66,Male,Subscriber
+25822462,2019-12-04 16:44:07 UTC,2019-12-04 16:50:31 UTC,5480,383,197,Michigan Ave & Madison St,174,Canal St & Madison St,Subscriber,Male,1959,6.38,2019-12-04,4,12,16,66,Male,Subscriber
+22110503,2019-03-22 16:45:31 UTC,2019-03-22 16:51:37 UTC,2367,366,197,Michigan Ave & Madison St,174,Canal St & Madison St,Subscriber,Male,1959,6.1,2019-03-22,22,3,16,66,Male,Subscriber
+23768682,2019-07-15 07:14:59 UTC,2019-07-15 07:28:00 UTC,2762,781,43,Michigan Ave & Washington St,174,Canal St & Madison St,Subscriber,Male,1951,13.02,2019-07-15,15,7,7,74,Male,Subscriber
+22301657,2019-04-12 18:01:44 UTC,2019-04-12 18:09:23 UTC,3308,459,39,Wabash Ave & Adams St,174,Canal St & Madison St,Subscriber,Male,1953,7.65,2019-04-12,12,4,18,72,Male,Subscriber
+22006131,2019-03-06 19:13:02 UTC,2019-03-06 19:21:25 UTC,701,503,39,Wabash Ave & Adams St,174,Canal St & Madison St,Subscriber,Male,1953,8.38,2019-03-06,6,3,19,72,Male,Subscriber
+25839341,2019-12-06 15:03:43 UTC,2019-12-06 15:18:41 UTC,3680,897,173,Mies van der Rohe Way & Chicago Ave,191,Canal St & Monroe St,Subscriber,Male,1959,14.95,2019-12-06,6,12,15,66,Male,Subscriber
+25281878,2019-10-04 17:53:13 UTC,2019-10-04 17:59:15 UTC,5942,362,33,State St & Van Buren St,191,Canal St & Monroe St,Subscriber,Male,1959,6.03,2019-10-04,4,10,17,66,Male,Subscriber
+22005240,2019-03-06 17:28:43 UTC,2019-03-06 17:34:10 UTC,4477,327,96,Desplaines St & Randolph St,191,Canal St & Monroe St (*),Subscriber,Male,1955,5.45,2019-03-06,6,3,17,70,Male,Subscriber
+21964689,2019-02-25 17:19:52 UTC,2019-02-25 17:27:16 UTC,2076,444,33,State St & Van Buren St,191,Canal St & Monroe St (*),Subscriber,Male,1959,7.4,2019-02-25,25,2,17,66,Male,Subscriber
+25843497,2019-12-07 09:48:12 UTC,2019-12-07 09:57:43 UTC,4010,571,141,Clark St & Lincoln Ave,34,Cannon Dr & Fullerton Ave,Subscriber,Male,1954,9.52,2019-12-07,7,12,9,71,Male,Subscriber
+24414051,2019-08-16 12:30:28 UTC,2019-08-16 14:30:22 UTC,5971,7194,99,Lake Shore Dr & Ohio St,34,Cannon Dr & Fullerton Ave,Customer,Female,1943,119.9,2019-08-16,16,8,12,82,Female,Customer
+24187245,2019-08-05 11:23:06 UTC,2019-08-05 11:41:59 UTC,696,1132,211,St. Clair St & Erie St,34,Cannon Dr & Fullerton Ave,Subscriber,Male,1956,18.87,2019-08-05,5,8,11,69,Male,Subscriber
+25843080,2019-12-07 07:35:22 UTC,2019-12-07 07:38:34 UTC,4656,191,324,Stockton Dr & Wrightwood Ave,34,Cannon Dr & Fullerton Ave,Subscriber,Male,1953,3.18,2019-12-07,7,12,7,72,Male,Subscriber
+25630241,2019-11-03 16:00:56 UTC,2019-11-03 16:12:54 UTC,1184,717,550,Central Ave & Chicago Ave,550,Central Ave & Chicago Ave,Subscriber,Male,1959,11.95,2019-11-03,3,11,16,66,Male,Subscriber
+25938566,2019-12-25 14:26:31 UTC,2019-12-25 14:35:44 UTC,4341,553,518,Conservatory Dr & Lake St,533,Central Park Blvd & 5th Ave,Subscriber,Male,1957,9.22,2019-12-25,25,12,14,68,Male,Subscriber
+22506277,2019-05-02 17:09:07 UTC,2019-05-02 17:23:12 UTC,2090,845,596,Benson Ave & Church St,601,Central St Metra,Subscriber,Male,1952,14.08,2019-05-02,2,5,17,73,Male,Subscriber
+23839147,2019-07-19 08:41:17 UTC,2019-07-19 09:01:13 UTC,6327,1196,523,Eastlake Ter & Rogers Ave,601,Central St Metra,Subscriber,Male,1957,19.93,2019-07-19,19,7,8,68,Male,Subscriber
+25546016,2019-10-24 10:54:13 UTC,2019-10-24 11:05:06 UTC,6285,653,604,Sheridan Rd & Noyes St (NU),603,Chicago Ave & Sheridan Rd,Subscriber,Female,2001,10.88,2019-10-24,24,10,10,24,Female,Subscriber
+25749839,2019-11-21 16:07:35 UTC,2019-11-21 16:18:54 UTC,6262,678,596,Benson Ave & Church St,597,Chicago Ave & Washington St,Subscriber,Male,1955,11.3,2019-11-21,21,11,16,70,Male,Subscriber
+24458873,2019-08-19 06:13:10 UTC,2019-08-19 06:23:37 UTC,3345,626,192,Canal St & Adams St,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1959,10.43,2019-08-19,19,8,6,66,Male,Subscriber
+24907420,2019-09-12 07:30:29 UTC,2019-09-12 07:49:09 UTC,5212,1120,94,Clark St & Armitage Ave,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1956,18.67,2019-09-12,12,9,7,69,Male,Subscriber
+25410053,2019-10-14 07:38:48 UTC,2019-10-14 08:03:51 UTC,232,1502,339,Emerald Ave & 31st St,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Female,1951,25.03,2019-10-14,14,10,7,74,Female,Subscriber
+25196187,2019-09-29 06:52:50 UTC,2019-09-29 06:55:15 UTC,4657,145,264,Stetson Ave & South Water St,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1954,2.42,2019-09-29,29,9,6,71,Male,Subscriber
+21941649,2019-02-20 07:41:38 UTC,2019-02-20 07:45:13 UTC,2293,215,264,Stetson Ave & South Water St,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1954,3.58,2019-02-20,20,2,7,71,Male,Subscriber
+21775109,2019-01-07 07:43:42 UTC,2019-01-07 07:47:00 UTC,3355,198,264,Stetson Ave & South Water St,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1954,3.3,2019-01-07,7,1,7,71,Male,Subscriber
+22245067,2019-04-08 07:41:21 UTC,2019-04-08 07:44:04 UTC,4031,163,264,Stetson Ave & South Water St,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1954,2.72,2019-04-08,8,4,7,71,Male,Subscriber
+24656472,2019-08-29 08:43:51 UTC,2019-08-29 09:13:28 UTC,5017,1776,264,Stetson Ave & South Water St,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1954,29.6,2019-08-29,29,8,8,71,Male,Subscriber
+23872340,2019-07-21 10:24:27 UTC,2019-07-21 10:30:04 UTC,4223,336,301,Clark St & Schiller St,94,Clark St & Armitage Ave,Subscriber,Male,1946,5.6,2019-07-21,21,7,10,79,Male,Subscriber
+22780485,2019-05-23 10:17:36 UTC,2019-05-23 10:38:16 UTC,3952,1240,58,Marshfield Ave & Cortland St,94,Clark St & Armitage Ave,Subscriber,Female,1957,20.67,2019-05-23,23,5,10,68,Female,Subscriber
+24218233,2019-08-06 18:21:36 UTC,2019-08-06 18:40:48 UTC,6113,1152,100,Orleans St & Merchandise Mart Plaza,94,Clark St & Armitage Ave,Subscriber,Female,1951,19.2,2019-08-06,6,8,18,74,Female,Subscriber
+22080630,2019-03-18 19:17:08 UTC,2019-03-18 19:21:28 UTC,4670,260,294,Broadway & Berwyn Ave,463,Clark St & Berwyn Ave,Subscriber,Male,1955,4.33,2019-03-18,18,3,19,70,Male,Subscriber
+25501881,2019-10-20 17:10:38 UTC,2019-10-20 19:06:56 UTC,40,6977,337,Clark St & Chicago Ave,337,Clark St & Chicago Ave,Customer,Male,2000,116.28,2019-10-20,20,10,17,25,Male,Customer
+23343498,2019-06-24 19:19:42 UTC,2019-06-24 19:22:39 UTC,4766,177,337,Clark St & Chicago Ave,337,Clark St & Chicago Ave,Subscriber,Female,1956,2.95,2019-06-24,24,6,19,69,Female,Subscriber
+21819106,2019-01-15 14:41:22 UTC,2019-01-15 14:46:27 UTC,2526,305,46,Wells St & Walton St,337,Clark St & Chicago Ave,Subscriber,Female,1956,5.08,2019-01-15,15,1,14,69,Female,Subscriber
+25367038,2019-10-10 08:14:09 UTC,2019-10-10 08:19:07 UTC,1068,297,46,Wells St & Walton St,337,Clark St & Chicago Ave,Subscriber,Female,1956,4.95,2019-10-10,10,10,8,69,Female,Subscriber
+25044845,2019-09-19 15:36:33 UTC,2019-09-19 15:40:33 UTC,3762,239,46,Wells St & Walton St,337,Clark St & Chicago Ave,Subscriber,Female,1956,3.98,2019-09-19,19,9,15,69,Female,Subscriber
+25295028,2019-10-05 19:35:04 UTC,2019-10-05 19:39:58 UTC,6324,293,447,Glenwood Ave & Morse Ave,449,Clark St & Columbia Ave,Subscriber,Male,1954,4.88,2019-10-05,5,10,19,71,Male,Subscriber
+22941788,2019-06-02 12:17:05 UTC,2019-06-02 12:23:46 UTC,1497,401,143,Sedgwick St & Webster Ave,220,Clark St & Drummond Pl,Subscriber,Female,2002,6.68,2019-06-02,2,6,12,23,Female,Subscriber
+24693811,2019-08-31 08:55:11 UTC,2019-08-31 09:04:00 UTC,2842,529,301,Clark St & Schiller St,176,Clark St & Elm St,Subscriber,Female,1957,8.82,2019-08-31,31,8,8,68,Female,Subscriber
+23037977,2019-06-07 11:55:36 UTC,2019-06-07 12:03:14 UTC,6305,458,110,Dearborn St & Erie St,176,Clark St & Elm St,Subscriber,Female,1958,7.63,2019-06-07,7,6,11,67,Female,Subscriber
+22428354,2019-04-24 12:01:54 UTC,2019-04-24 12:05:53 UTC,5037,239,31,Franklin St & Chicago Ave,176,Clark St & Elm St,Subscriber,Male,1959,3.98,2019-04-24,24,4,12,66,Male,Subscriber
+22334967,2019-04-16 17:34:02 UTC,2019-04-16 17:52:04 UTC,1710,1082,287,Franklin St & Monroe St,176,Clark St & Elm St,Subscriber,Male,1958,18.03,2019-04-16,16,4,17,67,Male,Subscriber
+24861562,2019-09-09 17:07:15 UTC,2019-09-09 17:20:22 UTC,1442,787,283,LaSalle St & Jackson Blvd,176,Clark St & Elm St,Subscriber,Male,1957,13.12,2019-09-09,9,9,17,68,Male,Subscriber
+22521263,2019-05-04 06:53:24 UTC,2019-05-04 07:04:57 UTC,740,693,35,Streeter Dr & Grand Ave,176,Clark St & Elm St,Subscriber,Male,1952,11.55,2019-05-04,4,5,6,73,Male,Subscriber
+22594585,2019-05-09 15:19:01 UTC,2019-05-09 15:59:41 UTC,789,2440,177,Theater on the Lake,176,Clark St & Elm St,Subscriber,Male,1939,40.67,2019-05-09,9,5,15,86,Male,Subscriber
+22304264,2019-04-13 09:25:00 UTC,2019-04-13 09:48:44 UTC,5456,1424,447,Glenwood Ave & Morse Ave,457,Clark St & Elmdale Ave,Subscriber,Female,1950,23.73,2019-04-13,13,4,9,75,Female,Subscriber
+22068425,2019-03-17 10:05:15 UTC,2019-03-17 10:16:10 UTC,401,655,459,Lakefront Trail & Bryn Mawr Ave,457,Clark St & Elmdale Ave,Subscriber,Female,1950,10.92,2019-03-17,17,3,10,75,Female,Subscriber
+25940045,2019-12-26 06:02:53 UTC,2019-12-26 06:11:01 UTC,4085,487,452,Western Ave & Granville Ave,457,Clark St & Elmdale Ave,Subscriber,Male,1953,8.12,2019-12-26,26,12,6,72,Male,Subscriber
+25637211,2019-11-04 12:51:08 UTC,2019-11-04 13:01:47 UTC,6072,638,293,Broadway & Wilson Ave,165,Clark St & Grace St,Subscriber,Female,1959,10.63,2019-11-04,4,11,12,66,Female,Subscriber
+22444667,2019-04-25 14:24:28 UTC,2019-04-25 14:29:01 UTC,5241,273,49,Dearborn St & Monroe St,50,Clark St & Ida B Wells Dr,Subscriber,Male,1952,4.55,2019-04-25,25,4,14,73,Male,Subscriber
+22749884,2019-05-21 16:12:15 UTC,2019-05-21 16:22:20 UTC,1410,605,24,Fairbanks Ct & Grand Ave,50,Clark St & Ida B Wells Dr,Subscriber,Male,1955,10.08,2019-05-21,21,5,16,70,Male,Subscriber
+23314102,2019-06-22 21:34:34 UTC,2019-06-22 22:22:25 UTC,4583,2871,654,Racine Ave & Washington Blvd (*),50,Clark St & Ida B Wells Dr,Customer,Female,2000,47.85,2019-06-22,22,6,21,25,Female,Customer
+23171165,2019-06-14 15:49:00 UTC,2019-06-14 16:29:43 UTC,2911,2443,94,Clark St & Armitage Ave,38,Clark St & Lake St,Customer,Male,1943,40.72,2019-06-14,14,6,15,82,Male,Customer
+22033919,2019-03-12 09:39:54 UTC,2019-03-12 09:47:39 UTC,1433,465,91,Clinton St & Washington Blvd,38,Clark St & Lake St,Subscriber,Male,1954,7.75,2019-03-12,12,3,9,71,Male,Subscriber
+22703206,2019-05-17 16:16:57 UTC,2019-05-17 16:24:59 UTC,1672,482,198,Green St & Madison St,38,Clark St & Lake St,Subscriber,Male,1956,8.03,2019-05-17,17,5,16,69,Male,Subscriber
+22157376,2019-03-28 15:50:30 UTC,2019-03-28 16:15:31 UTC,6030,1501,198,Green St & Madison St,38,Clark St & Lake St,Subscriber,Male,1956,25.02,2019-03-28,28,3,15,69,Male,Subscriber
+25698632,2019-11-13 17:03:38 UTC,2019-11-13 17:06:52 UTC,909,193,52,Michigan Ave & Lake St,38,Clark St & Lake St,Subscriber,Male,1959,3.22,2019-11-13,13,11,17,66,Male,Subscriber
+23773362,2019-07-15 12:01:35 UTC,2019-07-15 12:07:47 UTC,6443,371,197,Michigan Ave & Madison St,38,Clark St & Lake St,Subscriber,Male,1959,6.18,2019-07-15,15,7,12,66,Male,Subscriber
+22027574,2019-03-11 14:33:54 UTC,2019-03-11 14:38:07 UTC,4563,253,197,Michigan Ave & Madison St,38,Clark St & Lake St,Subscriber,Male,1957,4.22,2019-03-11,11,3,14,68,Male,Subscriber
+24677587,2019-08-30 10:28:37 UTC,2019-08-30 10:35:35 UTC,1654,418,238,Wolcott (Ravenswood) Ave & Montrose Ave,326,Clark St & Leland Ave,Subscriber,Female,1958,6.97,2019-08-30,30,8,10,67,Female,Subscriber
+22972277,2019-06-03 20:43:31 UTC,2019-06-03 20:55:03 UTC,4916,692,85,Michigan Ave & Oak St,141,Clark St & Lincoln Ave,Subscriber,Male,1955,11.53,2019-06-03,3,6,20,70,Male,Subscriber
+22054993,2019-03-14 18:19:33 UTC,2019-03-14 18:24:47 UTC,5035,314,447,Glenwood Ave & Morse Ave,432,Clark St & Lunt Ave,Subscriber,Male,1921,5.23,2019-03-14,14,3,18,104,Male,Subscriber
+23351440,2019-06-25 09:00:58 UTC,2019-06-25 09:10:44 UTC,6304,586,34,Cannon Dr & Fullerton Ave,126,Clark St & North Ave,Subscriber,Male,1950,9.77,2019-06-25,25,6,9,75,Male,Subscriber
+24577560,2019-08-24 17:59:31 UTC,2019-08-24 18:42:44 UTC,4728,2592,195,Columbus Dr & Randolph St,126,Clark St & North Ave,Subscriber,Male,2002,43.2,2019-08-24,24,8,17,23,Male,Subscriber
+25218812,2019-09-30 17:50:08 UTC,2019-09-30 17:55:27 UTC,258,318,75,Canal St & Jackson Blvd,51,Clark St & Randolph St,Subscriber,Male,1955,5.3,2019-09-30,30,9,17,70,Male,Subscriber
+22476781,2019-04-28 18:09:31 UTC,2019-04-28 18:14:56 UTC,5925,325,195,Columbus Dr & Randolph St,51,Clark St & Randolph St,Subscriber,Male,1959,5.42,2019-04-28,28,4,18,66,Male,Subscriber
+24263505,2019-08-08 18:57:23 UTC,2019-08-08 19:13:52 UTC,1211,989,168,Michigan Ave & 14th St,51,Clark St & Randolph St,Subscriber,Female,1951,16.48,2019-08-08,8,8,18,74,Female,Subscriber
+21952548,2019-02-22 08:13:42 UTC,2019-02-22 08:25:02 UTC,6062,680,623,Michigan Ave & 8th St,51,Clark St & Randolph St,Subscriber,Female,1956,11.33,2019-02-22,22,2,8,69,Female,Subscriber
+25059766,2019-09-20 09:22:12 UTC,2019-09-20 10:03:52 UTC,2585,2499,85,Michigan Ave & Oak St,301,Clark St & Schiller St,Subscriber,Male,1949,41.65,2019-09-20,20,9,9,76,Male,Subscriber
+22217527,2019-04-05 10:07:18 UTC,2019-04-05 10:20:09 UTC,132,771,20,Sheffield Ave & Kingsbury St,301,Clark St & Schiller St,Subscriber,Male,1954,12.85,2019-04-05,5,4,10,71,Male,Subscriber
+25126299,2019-09-24 14:41:46 UTC,2019-09-24 14:58:08 UTC,1385,982,35,Streeter Dr & Grand Ave,301,Clark St & Schiller St,Subscriber,Male,1949,16.37,2019-09-24,24,9,14,76,Male,Subscriber
+25020897,2019-09-18 10:50:17 UTC,2019-09-18 11:06:26 UTC,2905,968,35,Streeter Dr & Grand Ave,301,Clark St & Schiller St,Subscriber,Male,1949,16.13,2019-09-18,18,9,10,76,Male,Subscriber
+25286436,2019-10-05 09:32:30 UTC,2019-10-05 09:37:42 UTC,5699,312,289,Wells St & Concord Ln,301,Clark St & Schiller St,Subscriber,Female,1958,5.2,2019-10-05,5,10,9,67,Female,Subscriber
+25288690,2019-10-05 11:49:04 UTC,2019-10-05 12:04:55 UTC,2704,950,301,Clark St & Schiller St,156,Clark St & Wellington Ave,Subscriber,Male,1958,15.83,2019-10-05,5,10,11,67,Male,Subscriber
+22936020,2019-06-01 20:52:25 UTC,2019-06-01 21:06:02 UTC,4961,817,87,Racine Ave & Fullerton Ave,156,Clark St & Wellington Ave,Subscriber,Female,2000,13.62,2019-06-01,1,6,20,25,Female,Subscriber
+24954913,2019-09-14 16:03:36 UTC,2019-09-14 16:13:25 UTC,4255,589,343,Racine Ave & Wrightwood Ave,156,Clark St & Wellington Ave,Customer,Female,2000,9.82,2019-09-14,14,9,16,25,Female,Customer
+23975096,2019-07-26 11:47:01 UTC,2019-07-26 11:54:18 UTC,233,436,225,Halsted St & Dickens Ave,340,Clark St & Wrightwood Ave,Subscriber,,1955,7.27,2019-07-26,26,7,11,70,Unknown,Subscriber
+22998492,2019-06-05 13:09:11 UTC,2019-06-05 13:42:42 UTC,1124,2011,177,Theater on the Lake,340,Clark St & Wrightwood Ave,Subscriber,Male,1953,33.52,2019-06-05,5,6,13,72,Male,Subscriber
+25066872,2019-09-20 16:17:00 UTC,2019-09-20 16:30:31 UTC,4141,810,342,Wolcott Ave & Polk St,638,Clinton St & Jackson Blvd,Subscriber,Male,1959,13.5,2019-09-20,20,9,16,66,Male,Subscriber
+22526073,2019-05-04 13:29:34 UTC,2019-05-04 13:36:44 UTC,4372,430,80,Aberdeen St & Monroe St,638,Clinton St & Jackson Blvd (*),Subscriber,Female,1951,7.17,2019-05-04,4,5,13,74,Female,Subscriber
+21773100,2019-01-06 15:59:25 UTC,2019-01-06 16:08:14 UTC,4105,529,44,State St & Randolph St,638,Clinton St & Jackson Blvd (*),Subscriber,Male,2000,8.82,2019-01-06,6,1,15,25,Male,Subscriber
+22358381,2019-04-18 17:27:15 UTC,2019-04-18 17:38:49 UTC,6109,694,59,Wabash Ave & Roosevelt Rd,638,Clinton St & Jackson Blvd (*),Subscriber,Male,1956,11.57,2019-04-18,18,4,17,69,Male,Subscriber
+22748909,2019-05-21 14:24:21 UTC,2019-05-21 14:37:54 UTC,1473,813,49,Dearborn St & Monroe St,66,Clinton St & Lake St,Subscriber,Male,1942,13.55,2019-05-21,21,5,14,83,Male,Subscriber
+25742919,2019-11-20 16:51:02 UTC,2019-11-20 17:06:57 UTC,1821,954,142,McClurg Ct & Erie St,66,Clinton St & Lake St,Subscriber,Male,1957,15.9,2019-11-20,20,11,16,68,Male,Subscriber
+24384445,2019-08-14 21:53:48 UTC,2019-08-14 22:17:09 UTC,5500,1401,52,Michigan Ave & Lake St,66,Clinton St & Lake St,Customer,Male,2000,23.35,2019-08-14,14,8,21,25,Male,Customer
+23817318,2019-07-17 17:41:27 UTC,2019-07-17 17:47:49 UTC,5219,382,71,Morgan St & Lake St,66,Clinton St & Lake St,Subscriber,Male,1954,6.37,2019-07-17,17,7,17,71,Male,Subscriber
+21969601,2019-02-26 17:01:21 UTC,2019-02-26 17:10:39 UTC,3666,558,53,Wells St & Huron St,66,Clinton St & Lake St,Subscriber,Male,1956,9.3,2019-02-26,26,2,17,69,Male,Subscriber
+25183298,2019-09-27 16:08:23 UTC,2019-09-27 16:16:09 UTC,5348,466,109,900 W Harrison St,77,Clinton St & Madison St,Subscriber,Male,1956,7.77,2019-09-27,27,9,16,69,Male,Subscriber
+21953200,2019-02-22 09:14:25 UTC,2019-02-22 09:18:00 UTC,945,215,75,Canal St & Jackson Blvd,77,Clinton St & Madison St,Subscriber,Female,1957,3.58,2019-02-22,22,2,9,68,Female,Subscriber
+21827630,2019-01-16 18:10:03 UTC,2019-01-16 18:18:36 UTC,5534,513,195,Columbus Dr & Randolph St,77,Clinton St & Madison St,Subscriber,Male,1956,8.55,2019-01-16,16,1,18,69,Male,Subscriber
+25389677,2019-10-12 09:14:30 UTC,2019-10-12 09:19:59 UTC,1711,328,81,Daley Center Plaza,77,Clinton St & Madison St,Subscriber,Female,1957,5.47,2019-10-12,12,10,9,68,Female,Subscriber
+23953280,2019-07-25 11:25:20 UTC,2019-07-25 11:36:01 UTC,3805,641,111,Sedgwick St & Huron St,77,Clinton St & Madison St,Subscriber,Male,1955,10.68,2019-07-25,25,7,11,70,Male,Subscriber
+24473787,2019-08-19 18:02:44 UTC,2019-08-19 18:17:48 UTC,824,903,211,St. Clair St & Erie St,77,Clinton St & Madison St,Subscriber,Female,1957,15.05,2019-08-19,19,8,18,68,Female,Subscriber
+21827629,2019-01-16 18:10:00 UTC,2019-01-16 18:23:14 UTC,2388,794,211,St. Clair St & Erie St,77,Clinton St & Madison St,Subscriber,Male,1959,13.23,2019-01-16,16,1,18,66,Male,Subscriber
+25248807,2019-10-02 16:36:34 UTC,2019-10-02 16:50:37 UTC,4309,842,342,Wolcott Ave & Polk St,77,Clinton St & Madison St,Subscriber,Male,1956,14.03,2019-10-02,2,10,16,69,Male,Subscriber
+23355160,2019-06-25 13:02:33 UTC,2019-06-25 13:18:54 UTC,1738,981,338,Calumet Ave & 18th St,57,Clinton St & Roosevelt Rd,Subscriber,Male,1945,16.35,2019-06-25,25,6,13,80,Male,Subscriber
+22725259,2019-05-19 16:09:05 UTC,2019-05-19 16:15:50 UTC,1937,405,170,Clinton St & 18th St,57,Clinton St & Roosevelt Rd,Subscriber,Male,2000,6.75,2019-05-19,19,5,16,25,Male,Subscriber
+23641075,2019-07-09 11:52:24 UTC,2019-07-09 11:59:47 UTC,6425,442,255,Indiana Ave & Roosevelt Rd,57,Clinton St & Roosevelt Rd,Subscriber,Male,1948,7.37,2019-07-09,9,7,11,77,Male,Subscriber
+25741734,2019-11-20 15:25:00 UTC,2019-11-20 15:31:09 UTC,6931,369,38,Clark St & Lake St,91,Clinton St & Washington Blvd,Subscriber,Male,1957,6.15,2019-11-20,20,11,15,68,Male,Subscriber
+25318272,2019-10-07 15:13:14 UTC,2019-10-07 15:20:24 UTC,4106,430,66,Clinton St & Lake St,91,Clinton St & Washington Blvd,Subscriber,Male,1957,7.17,2019-10-07,7,10,15,68,Male,Subscriber
+24750847,2019-09-03 11:21:31 UTC,2019-09-03 11:23:30 UTC,5320,118,66,Clinton St & Lake St,91,Clinton St & Washington Blvd,Subscriber,Male,1954,1.97,2019-09-03,3,9,11,71,Male,Subscriber
+24966435,2019-09-15 11:50:43 UTC,2019-09-15 11:58:41 UTC,1951,477,195,Columbus Dr & Randolph St,91,Clinton St & Washington Blvd,Subscriber,Male,1954,7.95,2019-09-15,15,9,11,71,Male,Subscriber
+25916474,2019-12-20 12:23:12 UTC,2019-12-20 12:27:53 UTC,307,281,164,Franklin St & Lake St,91,Clinton St & Washington Blvd,Subscriber,Male,1954,4.68,2019-12-20,20,12,12,71,Male,Subscriber
+25375071,2019-10-10 17:01:33 UTC,2019-10-10 17:05:06 UTC,1785,213,198,Green St & Madison St,91,Clinton St & Washington Blvd,Subscriber,Male,1958,3.55,2019-10-10,10,10,17,67,Male,Subscriber
+22736691,2019-05-20 13:29:52 UTC,2019-05-20 13:32:53 UTC,6006,181,112,Green St & Randolph St,91,Clinton St & Washington Blvd,Subscriber,Male,1952,3.02,2019-05-20,20,5,13,73,Male,Subscriber
+22028251,2019-03-11 16:16:31 UTC,2019-03-11 16:22:15 UTC,662,344,283,LaSalle St & Jackson Blvd,91,Clinton St & Washington Blvd,Subscriber,Male,1959,5.73,2019-03-11,11,3,16,66,Male,Subscriber
+22036560,2019-03-12 16:10:47 UTC,2019-03-12 16:19:51 UTC,5633,544,283,LaSalle St & Jackson Blvd,91,Clinton St & Washington Blvd,Subscriber,Male,1958,9.07,2019-03-12,12,3,16,67,Male,Subscriber
+24083687,2019-07-31 18:01:43 UTC,2019-07-31 18:16:28 UTC,1108,884,631,Malcolm X College,91,Clinton St & Washington Blvd,Subscriber,Female,1954,14.73,2019-07-31,31,7,18,71,Female,Subscriber
+25653236,2019-11-05 19:09:36 UTC,2019-11-05 19:16:47 UTC,2773,430,52,Michigan Ave & Lake St,91,Clinton St & Washington Blvd,Subscriber,Male,1957,7.17,2019-11-05,5,11,19,68,Male,Subscriber
+24934404,2019-09-13 16:39:29 UTC,2019-09-13 17:02:21 UTC,1571,1372,85,Michigan Ave & Oak St,91,Clinton St & Washington Blvd,Subscriber,Male,1948,22.87,2019-09-13,13,9,16,77,Male,Subscriber
+23334104,2019-06-24 11:24:11 UTC,2019-06-24 11:30:02 UTC,2752,351,84,Milwaukee Ave & Grand Ave,91,Clinton St & Washington Blvd,Subscriber,Male,2000,5.85,2019-06-24,24,6,11,25,Male,Subscriber
+25534817,2019-10-23 15:12:18 UTC,2019-10-23 15:17:45 UTC,2784,326,100,Orleans St & Merchandise Mart Plaza,91,Clinton St & Washington Blvd,Subscriber,Male,1957,5.43,2019-10-23,23,10,15,68,Male,Subscriber
+24831466,2019-09-07 15:17:31 UTC,2019-09-07 15:22:47 UTC,5935,315,100,Orleans St & Merchandise Mart Plaza,91,Clinton St & Washington Blvd,Subscriber,Male,1959,5.25,2019-09-07,7,9,15,66,Male,Subscriber
+21981701,2019-02-28 18:59:10 UTC,2019-02-28 19:14:54 UTC,1557,944,211,St. Clair St & Erie St,91,Clinton St & Washington Blvd,Subscriber,Male,1955,15.73,2019-02-28,28,2,18,70,Male,Subscriber
+24965129,2019-09-15 10:36:25 UTC,2019-09-15 10:51:06 UTC,1042,880,5,State St & Harrison St,91,Clinton St & Washington Blvd,Subscriber,Male,1957,14.67,2019-09-15,15,9,10,68,Male,Subscriber
+24681773,2019-08-30 14:21:07 UTC,2019-08-30 14:28:54 UTC,5746,467,47,State St & Kinzie St,91,Clinton St & Washington Blvd,Subscriber,Male,1951,7.78,2019-08-30,30,8,14,74,Male,Subscriber
+22983928,2019-06-04 17:14:07 UTC,2019-06-04 17:28:19 UTC,2344,852,106,State St & Pearson St,91,Clinton St & Washington Blvd,Subscriber,Male,1955,14.2,2019-06-04,4,6,17,70,Male,Subscriber
+22982320,2019-06-04 16:37:18 UTC,2019-06-04 16:45:27 UTC,6328,489,264,Stetson Ave & South Water St,91,Clinton St & Washington Blvd,Subscriber,Male,1957,8.15,2019-06-04,4,6,16,68,Male,Subscriber
+24399014,2019-08-15 17:16:02 UTC,2019-08-15 17:22:41 UTC,2711,399,39,Wabash Ave & Adams St,91,Clinton St & Washington Blvd,Subscriber,Male,1959,6.65,2019-08-15,15,8,17,66,Male,Subscriber
+21819818,2019-01-15 16:40:36 UTC,2019-01-15 16:48:33 UTC,4781,477,39,Wabash Ave & Adams St,91,Clinton St & Washington Blvd,Subscriber,Male,1959,7.95,2019-01-15,15,1,16,66,Male,Subscriber
+24809745,2019-09-06 13:23:06 UTC,2019-09-06 13:31:13 UTC,683,486,199,Wabash Ave & Grand Ave,91,Clinton St & Washington Blvd,Subscriber,Male,1951,8.1,2019-09-06,6,9,13,74,Male,Subscriber
+24236378,2019-08-07 17:07:02 UTC,2019-08-07 17:16:05 UTC,6091,542,53,Wells St & Huron St,91,Clinton St & Washington Blvd,Subscriber,Male,1956,9.03,2019-08-07,7,8,17,69,Male,Subscriber
+22078161,2019-03-18 16:38:22 UTC,2019-03-18 17:03:37 UTC,5346,1515,342,Wolcott Ave & Polk St,91,Clinton St & Washington Blvd,Subscriber,Male,1951,25.25,2019-03-18,18,3,16,74,Male,Subscriber
+24921332,2019-09-12 18:57:04 UTC,2019-09-12 19:05:13 UTC,1129,489,49,Dearborn St & Monroe St,195,Columbus Dr & Randolph St,Subscriber,Male,1959,8.15,2019-09-12,12,9,18,66,Male,Subscriber
+23960571,2019-07-25 17:15:37 UTC,2019-07-25 17:23:22 UTC,1968,464,98,LaSalle St & Washington St,195,Columbus Dr & Randolph St,Subscriber,Male,1957,7.73,2019-07-25,25,7,17,68,Male,Subscriber
+22657159,2019-05-14 18:25:11 UTC,2019-05-14 18:44:28 UTC,4260,1157,173,Mies van der Rohe Way & Chicago Ave,195,Columbus Dr & Randolph St,Subscriber,Male,1958,19.28,2019-05-14,14,5,18,67,Male,Subscriber
+21841883,2019-01-19 18:31:40 UTC,2019-01-19 18:38:25 UTC,5626,405,44,State St & Randolph St,195,Columbus Dr & Randolph St,Subscriber,Female,2000,6.75,2019-01-19,19,1,18,25,Female,Subscriber
+25586581,2019-10-28 14:25:51 UTC,2019-10-28 14:35:32 UTC,5304,581,35,Streeter Dr & Grand Ave,195,Columbus Dr & Randolph St,Customer,Male,2001,9.68,2019-10-28,28,10,14,24,Male,Customer
+25741393,2019-11-20 14:32:44 UTC,2019-11-20 14:41:28 UTC,6633,523,247,Shore Dr & 55th St,417,Cornell Ave & Hyde Park Blvd,Subscriber,Female,1954,8.72,2019-11-20,20,11,14,71,Female,Subscriber
+25428292,2019-10-15 11:16:01 UTC,2019-10-15 11:22:06 UTC,6027,365,191,Canal St & Monroe St,81,Daley Center Plaza,Subscriber,Male,1951,6.08,2019-10-15,15,10,11,74,Male,Subscriber
+24391291,2019-08-15 10:55:16 UTC,2019-08-15 11:07:40 UTC,1252,743,41,Federal St & Polk St,81,Daley Center Plaza,Subscriber,Male,1957,12.38,2019-08-15,15,8,10,68,Male,Subscriber
+23146325,2019-06-13 11:43:00 UTC,2019-06-13 12:04:47 UTC,6172,1307,144,Larrabee St & Webster Ave,81,Daley Center Plaza,Subscriber,Male,1959,21.78,2019-06-13,13,6,11,66,Male,Subscriber
+25037559,2019-09-19 07:54:46 UTC,2019-09-19 08:06:55 UTC,4772,728,85,Michigan Ave & Oak St,81,Daley Center Plaza,Subscriber,Male,1959,12.13,2019-09-19,19,9,7,66,Male,Subscriber
+24545149,2019-08-23 12:23:50 UTC,2019-08-23 12:27:27 UTC,1140,217,47,State St & Kinzie St,81,Daley Center Plaza,Subscriber,Male,1958,3.62,2019-08-23,23,8,12,67,Male,Subscriber
+25441194,2019-10-16 10:19:47 UTC,2019-10-16 10:25:40 UTC,1096,353,33,State St & Van Buren St,81,Daley Center Plaza,Subscriber,,1955,5.88,2019-10-16,16,10,10,70,Unknown,Subscriber
+24028449,2019-07-28 19:48:03 UTC,2019-07-28 20:12:35 UTC,6418,1471,268,Lake Shore Dr & North Blvd,219,Damen Ave & Cortland St,Subscriber,Male,2003,24.52,2019-07-28,28,7,19,22,Male,Subscriber
+23615333,2019-07-07 17:23:44 UTC,2019-07-07 17:34:22 UTC,6199,638,442,California Ave & 23rd Pl,124,Damen Ave & Cullerton St,Subscriber,Male,1948,10.63,2019-07-07,7,7,17,77,Male,Subscriber
+23319549,2019-06-23 11:38:49 UTC,2019-06-23 12:14:24 UTC,5784,2135,324,Stockton Dr & Wrightwood Ave,130,Damen Ave & Division St,Subscriber,Female,2000,35.58,2019-06-23,23,6,11,25,Female,Subscriber
+24273895,2019-08-09 11:20:53 UTC,2019-08-09 11:36:51 UTC,5157,958,259,California Ave & Francis Pl,69,Damen Ave & Pierce Ave,Subscriber,Female,2003,15.97,2019-08-09,9,8,11,22,Female,Subscriber
+24230221,2019-08-07 11:56:26 UTC,2019-08-07 12:04:20 UTC,841,473,159,Claremont Ave & Hirsch St,183,Damen Ave & Thomas St (Augusta Blvd),Subscriber,Female,1955,7.88,2019-08-07,7,8,11,70,Female,Subscriber
+25750287,2019-11-21 16:41:56 UTC,2019-11-21 16:50:28 UTC,3566,511,144,Larrabee St & Webster Ave,60,Dayton St & North Ave,Subscriber,Male,1959,8.52,2019-11-21,21,11,16,66,Male,Subscriber
+23935193,2019-07-24 15:23:25 UTC,2019-07-24 15:47:05 UTC,5749,1419,313,Lakeview Ave & Fullerton Pkwy,140,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1955,23.65,2019-07-24,24,7,15,70,Male,Subscriber
+22222778,2019-04-05 17:55:46 UTC,2019-04-05 18:03:52 UTC,5526,486,173,Mies van der Rohe Way & Chicago Ave,140,Dearborn Pkwy & Delaware Pl,Subscriber,Female,2001,8.1,2019-04-05,5,4,17,24,Female,Subscriber
+24375054,2019-08-14 14:44:43 UTC,2019-08-14 14:52:18 UTC,4757,454,212,Wells St & Hubbard St,140,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1959,7.57,2019-08-14,14,8,14,66,Male,Subscriber
+25560730,2019-10-25 14:35:15 UTC,2019-10-25 14:46:52 UTC,5485,697,109,900 W Harrison St,37,Dearborn St & Adams St,Subscriber,Male,2001,11.62,2019-10-25,25,10,14,24,Male,Subscriber
+25812726,2019-12-03 14:21:47 UTC,2019-12-03 14:40:34 UTC,2901,1127,338,Calumet Ave & 18th St,37,Dearborn St & Adams St,Subscriber,Male,1945,18.78,2019-12-03,3,12,14,80,Male,Subscriber
+22156346,2019-03-28 14:07:44 UTC,2019-03-28 14:28:18 UTC,4881,1234,141,Clark St & Lincoln Ave,37,Dearborn St & Adams St,Subscriber,Female,1959,20.57,2019-03-28,28,3,14,66,Female,Subscriber
+21801810,2019-01-11 10:29:04 UTC,2019-01-11 10:36:24 UTC,1244,440,107,Desplaines St & Jackson Blvd,37,Dearborn St & Adams St,Subscriber,Male,1953,7.33,2019-01-11,11,1,10,72,Male,Subscriber
+25925122,2019-12-22 11:47:31 UTC,2019-12-22 11:58:57 UTC,3280,685,273,Michigan Ave & 18th St,37,Dearborn St & Adams St,Subscriber,Female,1956,11.42,2019-12-22,22,12,11,69,Female,Subscriber
+22327102,2019-04-16 08:46:38 UTC,2019-04-16 08:59:28 UTC,4327,770,173,Mies van der Rohe Way & Chicago Ave,37,Dearborn St & Adams St,Subscriber,Male,1949,12.83,2019-04-16,16,4,8,76,Male,Subscriber
+24659548,2019-08-29 12:40:37 UTC,2019-08-29 12:42:55 UTC,6216,138,39,Wabash Ave & Adams St,37,Dearborn St & Adams St,Subscriber,Male,1959,2.3,2019-08-29,29,8,12,66,Male,Subscriber
+24525670,2019-08-22 14:49:09 UTC,2019-08-22 15:00:17 UTC,5611,667,359,Larrabee St & Division St,110,Dearborn St & Erie St,Subscriber,Male,1958,11.12,2019-08-22,22,8,14,67,Male,Subscriber
+23523498,2019-07-03 08:46:28 UTC,2019-07-03 09:05:48 UTC,5939,1160,127,Lincoln Ave & Fullerton Ave,110,Dearborn St & Erie St,Customer,Male,1959,19.33,2019-07-03,3,7,8,66,Male,Customer
+23012429,2019-06-06 06:54:06 UTC,2019-06-06 06:58:22 UTC,6229,256,46,Wells St & Walton St,110,Dearborn St & Erie St,Subscriber,Male,1957,4.27,2019-06-06,6,6,6,68,Male,Subscriber
+24035282,2019-07-29 11:40:18 UTC,2019-07-29 11:47:17 UTC,3428,419,191,Canal St & Monroe St,49,Dearborn St & Monroe St,Subscriber,Male,1951,6.98,2019-07-29,29,7,11,74,Male,Subscriber
+22801947,2019-05-24 14:55:49 UTC,2019-05-24 15:08:17 UTC,5205,748,57,Clinton St & Roosevelt Rd,49,Dearborn St & Monroe St,Subscriber,Male,1951,12.47,2019-05-24,24,5,14,74,Male,Subscriber
+23577773,2019-07-05 19:44:22 UTC,2019-07-05 20:43:59 UTC,4141,3577,49,Dearborn St & Monroe St,49,Dearborn St & Monroe St,Customer,,2002,59.62,2019-07-05,5,7,19,23,Unknown,Customer
+25690718,2019-11-11 15:36:17 UTC,2019-11-11 15:46:11 UTC,5959,593,133,Kingsbury St & Kinzie St,49,Dearborn St & Monroe St,Subscriber,Male,1954,9.88,2019-11-11,11,11,15,71,Male,Subscriber
+21907732,2019-02-11 15:24:07 UTC,2019-02-11 15:26:39 UTC,4785,152,283,LaSalle St & Jackson Blvd,49,Dearborn St & Monroe St,Subscriber,Male,1957,2.53,2019-02-11,11,2,15,68,Male,Subscriber
+23823413,2019-07-18 06:53:45 UTC,2019-07-18 07:06:39 UTC,5262,774,172,Rush St & Cedar St,49,Dearborn St & Monroe St,Subscriber,Female,1955,12.9,2019-07-18,18,7,6,70,Female,Subscriber
+24197117,2019-08-05 18:14:59 UTC,2019-08-05 18:21:17 UTC,2771,377,41,Federal St & Polk St,624,Dearborn St & Van Buren St,Subscriber,Female,1958,6.28,2019-08-05,5,8,18,67,Female,Subscriber
+22722915,2019-05-19 13:01:07 UTC,2019-05-19 13:08:51 UTC,4998,464,50,Clark St & Ida B Wells Dr,107,Desplaines St & Jackson Blvd,Subscriber,Male,1955,7.73,2019-05-19,19,5,13,70,Male,Subscriber
+22070137,2019-03-17 13:55:24 UTC,2019-03-17 14:01:55 UTC,4859,391,50,Clark St & Ida B Wells Dr,107,Desplaines St & Jackson Blvd,Subscriber,Male,1955,6.52,2019-03-17,17,3,13,70,Male,Subscriber
+22798786,2019-05-24 10:46:38 UTC,2019-05-24 10:52:37 UTC,5443,359,283,LaSalle St & Jackson Blvd,107,Desplaines St & Jackson Blvd,Subscriber,Male,1955,5.98,2019-05-24,24,5,10,70,Male,Subscriber
+24970778,2019-09-15 15:17:19 UTC,2019-09-15 15:28:45 UTC,3428,686,320,Loomis St & Lexington St,107,Desplaines St & Jackson Blvd,Subscriber,Female,2000,11.43,2019-09-15,15,9,15,25,Female,Subscriber
+24839689,2019-09-08 00:13:35 UTC,2019-09-08 00:43:24 UTC,3560,1788,26,McClurg Ct & Illinois St,107,Desplaines St & Jackson Blvd,Subscriber,Male,2000,29.8,2019-09-08,8,9,0,25,Male,Subscriber
+25293468,2019-10-05 15:47:46 UTC,2019-10-05 18:00:34 UTC,1991,7967,524,Austin Blvd & Chicago Ave,56,Desplaines St & Kinzie St,Customer,Male,1959,132.78,2019-10-05,5,10,15,66,Male,Customer
+24465974,2019-08-19 13:26:47 UTC,2019-08-19 13:35:04 UTC,3745,496,51,Clark St & Randolph St,56,Desplaines St & Kinzie St,Subscriber,Male,1954,8.27,2019-08-19,19,8,13,71,Male,Subscriber
+24503276,2019-08-21 13:11:23 UTC,2019-08-21 13:14:52 UTC,3347,208,96,Desplaines St & Randolph St,56,Desplaines St & Kinzie St,Subscriber,Male,1955,3.47,2019-08-21,21,8,13,70,Male,Subscriber
+22300600,2019-04-12 17:08:00 UTC,2019-04-12 17:13:06 UTC,5733,306,47,State St & Kinzie St,56,Desplaines St & Kinzie St,Subscriber,Male,1958,5.1,2019-04-12,12,4,17,67,Male,Subscriber
+24416964,2019-08-16 14:51:16 UTC,2019-08-16 15:28:52 UTC,1179,2256,416,Dorchester Ave & 49th St,416,Dorchester Ave & 49th St,Subscriber,Male,1959,37.6,2019-08-16,16,8,14,66,Male,Subscriber
+21816963,2019-01-15 07:53:04 UTC,2019-01-15 07:59:55 UTC,5993,411,479,Drake Ave & Montrose Ave,489,Drake Ave & Addison St,Subscriber,Male,1952,6.85,2019-01-15,15,1,7,73,Male,Subscriber
+23192741,2019-06-16 12:20:27 UTC,2019-06-16 12:22:27 UTC,885,120,503,Drake Ave & Fullerton Ave,503,Drake Ave & Fullerton Ave,Customer,Male,2000,2,2019-06-16,16,6,12,25,Male,Customer
+23584793,2019-07-06 11:25:54 UTC,2019-07-06 12:42:54 UTC,507,4620,300,Broadway & Barry Ave,6,Dusable Harbor,Customer,Female,1959,77,2019-07-06,6,7,11,66,Female,Customer
+23531099,2019-07-03 15:41:47 UTC,2019-07-03 15:59:47 UTC,6315,1080,76,Lake Shore Dr & Monroe St,6,Dusable Harbor,Subscriber,Female,1957,18,2019-07-03,3,7,15,68,Female,Subscriber
+22541591,2019-05-05 13:54:15 UTC,2019-05-05 14:09:48 UTC,516,933,76,Lake Shore Dr & Monroe St,6,Dusable Harbor,Customer,Female,2000,15.55,2019-05-05,5,5,13,25,Female,Customer
+22709838,2019-05-18 10:43:12 UTC,2019-05-18 10:48:23 UTC,6044,311,99,Lake Shore Dr & Ohio St,6,Dusable Harbor,Subscriber,Male,1958,5.18,2019-05-18,18,5,10,67,Male,Subscriber
+22898482,2019-05-30 19:15:19 UTC,2019-05-30 19:19:35 UTC,3737,256,26,McClurg Ct & Illinois St,6,Dusable Harbor,Subscriber,Male,1954,4.27,2019-05-30,30,5,19,71,Male,Subscriber
+23302001,2019-06-22 14:00:19 UTC,2019-06-22 14:07:46 UTC,6118,447,26,McClurg Ct & Illinois St,6,Dusable Harbor,Subscriber,Male,1946,7.45,2019-06-22,22,6,14,79,Male,Subscriber
+24831305,2019-09-07 15:12:08 UTC,2019-09-07 15:30:31 UTC,1345,1103,596,Benson Ave & Church St,523,Eastlake Ter & Rogers Ave,Subscriber,Female,1959,18.38,2019-09-07,7,9,15,66,Female,Subscriber
+23577615,2019-07-05 19:34:16 UTC,2019-07-05 19:40:37 UTC,5543,381,328,Ellis Ave & 58th St,418,Ellis Ave & 53rd St,Subscriber,Female,1959,6.35,2019-07-05,5,7,19,66,Female,Subscriber
+22377006,2019-04-20 18:46:46 UTC,2019-04-20 18:53:30 UTC,3948,404,328,Ellis Ave & 58th St,418,Ellis Ave & 53rd St,Subscriber,Female,1959,6.73,2019-04-20,20,4,18,66,Female,Subscriber
+25425259,2019-10-15 07:58:31 UTC,2019-10-15 08:06:27 UTC,4053,475,121,Blackstone Ave & Hyde Park Blvd,420,Ellis Ave & 55th St,Subscriber,Male,1953,7.92,2019-10-15,15,10,7,72,Male,Subscriber
+25493119,2019-10-19 22:53:47 UTC,2019-10-19 22:58:40 UTC,1747,292,426,Ellis Ave & 60th St,420,Ellis Ave & 55th St,Subscriber,Male,2001,4.87,2019-10-19,19,10,22,24,Male,Subscriber
+25728774,2019-11-18 22:16:57 UTC,2019-11-18 22:24:13 UTC,2494,435,426,Ellis Ave & 60th St,420,Ellis Ave & 55th St,Subscriber,Male,2001,7.25,2019-11-18,18,11,22,24,Male,Subscriber
+22724723,2019-05-19 15:36:36 UTC,2019-05-19 15:41:20 UTC,1045,284,426,Ellis Ave & 60th St,420,Ellis Ave & 55th St,Subscriber,Male,2000,4.73,2019-05-19,19,5,15,25,Male,Subscriber
+25829945,2019-12-05 13:27:25 UTC,2019-12-05 13:36:36 UTC,3814,551,345,Lake Park Ave & 56th St,420,Ellis Ave & 55th St,Subscriber,Male,1949,9.18,2019-12-05,5,12,13,76,Male,Subscriber
+22571581,2019-05-07 17:00:10 UTC,2019-05-07 17:02:54 UTC,3233,164,423,University Ave & 57th St,420,Ellis Ave & 55th St,Subscriber,Female,2000,2.73,2019-05-07,7,5,17,25,Female,Subscriber
+21859910,2019-01-26 20:53:52 UTC,2019-01-26 20:58:01 UTC,777,249,420,Ellis Ave & 55th St,328,Ellis Ave & 58th St,Subscriber,Female,2000,4.15,2019-01-26,26,1,20,25,Female,Subscriber
+22740895,2019-05-20 17:28:19 UTC,2019-05-20 17:30:22 UTC,740,123,426,Ellis Ave & 60th St,328,Ellis Ave & 58th St,Subscriber,Male,2000,2.05,2019-05-20,20,5,17,25,Male,Subscriber
+22504295,2019-05-02 12:24:30 UTC,2019-05-02 12:26:34 UTC,4820,124,426,Ellis Ave & 60th St,328,Ellis Ave & 58th St,Subscriber,Male,2000,2.07,2019-05-02,2,5,12,25,Male,Subscriber
+25596585,2019-10-29 11:39:12 UTC,2019-10-29 11:48:57 UTC,523,584,322,Kimbark Ave & 53rd St,328,Ellis Ave & 58th St,Subscriber,Female,2000,9.73,2019-10-29,29,10,11,25,Female,Subscriber
+23375017,2019-06-26 08:37:08 UTC,2019-06-26 08:52:06 UTC,152,898,417,Cornell Ave & Hyde Park Blvd,426,Ellis Ave & 60th St,Subscriber,Male,2001,14.97,2019-06-26,26,6,8,24,Male,Subscriber
+21935498,2019-02-18 19:19:32 UTC,2019-02-18 19:24:00 UTC,1291,268,420,Ellis Ave & 55th St,426,Ellis Ave & 60th St,Subscriber,Female,2000,4.47,2019-02-18,18,2,19,25,Female,Subscriber
+22870576,2019-05-29 11:18:48 UTC,2019-05-29 11:22:59 UTC,606,251,420,Ellis Ave & 55th St,426,Ellis Ave & 60th St,Subscriber,Male,2000,4.18,2019-05-29,29,5,11,25,Male,Subscriber
+25468961,2019-10-18 11:27:42 UTC,2019-10-18 11:29:24 UTC,5636,102,328,Ellis Ave & 58th St,426,Ellis Ave & 60th St,Subscriber,Male,2000,1.7,2019-10-18,18,10,11,25,Male,Subscriber
+22242255,2019-04-07 17:16:41 UTC,2019-04-07 17:26:17 UTC,4266,576,426,Ellis Ave & 60th St,426,Ellis Ave & 60th St,Subscriber,Male,2000,9.6,2019-04-07,7,4,17,25,Male,Subscriber
+25402558,2019-10-13 12:04:25 UTC,2019-10-13 12:11:10 UTC,1226,405,425,Harper Ave & 59th St,426,Ellis Ave & 60th St,Subscriber,Male,2001,6.75,2019-10-13,13,10,12,24,Male,Subscriber
+25631425,2019-11-03 18:39:12 UTC,2019-11-03 18:43:50 UTC,1688,277,425,Harper Ave & 59th St,426,Ellis Ave & 60th St,Subscriber,Male,2000,4.62,2019-11-03,3,11,18,25,Male,Subscriber
+25203927,2019-09-29 21:18:47 UTC,2019-09-29 21:28:49 UTC,1166,602,322,Kimbark Ave & 53rd St,426,Ellis Ave & 60th St,Subscriber,Male,2001,10.03,2019-09-29,29,9,21,24,Male,Subscriber
+24591202,2019-08-25 14:20:09 UTC,2019-08-25 14:29:34 UTC,4208,565,322,Kimbark Ave & 53rd St,426,Ellis Ave & 60th St,Subscriber,Male,2000,9.42,2019-08-25,25,8,14,25,Male,Subscriber
+25734853,2019-11-19 17:44:26 UTC,2019-11-19 17:48:33 UTC,3646,246,423,University Ave & 57th St,426,Ellis Ave & 60th St,Subscriber,Male,2000,4.1,2019-11-19,19,11,17,25,Male,Subscriber
+25834202,2019-12-05 19:36:56 UTC,2019-12-05 19:40:34 UTC,1700,217,423,University Ave & 57th St,426,Ellis Ave & 60th St,Subscriber,Male,2001,3.62,2019-12-05,5,12,19,24,Male,Subscriber
+22726497,2019-05-19 17:12:42 UTC,2019-05-19 17:16:08 UTC,2546,206,423,University Ave & 57th St,426,Ellis Ave & 60th St,Subscriber,Male,2000,3.43,2019-05-19,19,5,17,25,Male,Subscriber
+25580413,2019-10-27 23:23:48 UTC,2019-10-27 23:27:30 UTC,630,222,423,University Ave & 57th St,426,Ellis Ave & 60th St,Subscriber,Male,2001,3.7,2019-10-27,27,10,23,24,Male,Subscriber
+25838125,2019-12-06 11:25:50 UTC,2019-12-06 11:28:42 UTC,1716,171,423,University Ave & 57th St,426,Ellis Ave & 60th St,Subscriber,Male,2000,2.85,2019-12-06,6,12,11,25,Male,Subscriber
+22651206,2019-05-14 14:56:20 UTC,2019-05-14 15:29:54 UTC,3531,2014,100,Orleans St & Merchandise Mart Plaza,339,Emerald Ave & 31st St,Subscriber,Male,2000,33.57,2019-05-14,14,5,14,25,Male,Subscriber
+25922113,2019-12-21 13:57:01 UTC,2019-12-21 14:06:16 UTC,3758,554,132,Wentworth Ave & 24th St (Temp),339,Emerald Ave & 31st St,Subscriber,Female,1951,9.23,2019-12-21,21,12,13,74,Female,Subscriber
+24072290,2019-07-31 08:48:18 UTC,2019-07-31 09:00:50 UTC,2133,752,66,Clinton St & Lake St,24,Fairbanks Ct & Grand Ave,Subscriber,Male,1958,12.53,2019-07-31,31,7,8,67,Male,Subscriber
+23853284,2019-07-20 00:24:45 UTC,2019-07-20 01:36:16 UTC,1111,4291,24,Fairbanks Ct & Grand Ave,24,Fairbanks Ct & Grand Ave,Customer,Female,2000,71.52,2019-07-20,20,7,0,25,Female,Customer
+21893672,2019-02-07 13:50:48 UTC,2019-02-07 13:54:26 UTC,1824,218,264,Stetson Ave & South Water St,24,Fairbanks Ct & Grand Ave,Subscriber,Male,1958,3.63,2019-02-07,7,2,13,67,Male,Subscriber
+23966335,2019-07-25 20:08:14 UTC,2019-07-25 20:16:47 UTC,824,513,35,Streeter Dr & Grand Ave,24,Fairbanks Ct & Grand Ave,Customer,Male,2000,8.55,2019-07-25,25,7,20,25,Male,Customer
+22975747,2019-06-04 07:56:08 UTC,2019-06-04 08:00:48 UTC,615,280,35,Streeter Dr & Grand Ave,635,Fairbanks St & Superior St (*),Subscriber,Female,1959,4.67,2019-06-04,4,6,7,66,Female,Subscriber
+22220178,2019-04-05 15:45:47 UTC,2019-04-05 16:03:17 UTC,4060,1050,196,Cityfront Plaza Dr & Pioneer Ct,41,Federal St & Polk St,Subscriber,Female,1951,17.5,2019-04-05,5,4,15,74,Female,Subscriber
+25610318,2019-10-31 16:37:05 UTC,2019-10-31 16:44:37 UTC,5505,451,37,Dearborn St & Adams St,41,Federal St & Polk St,Subscriber,Female,1953,7.52,2019-10-31,31,10,16,72,Female,Subscriber
+22087012,2019-03-19 16:29:14 UTC,2019-03-19 16:36:26 UTC,3926,432,51,Clark St & Randolph St,7,Field Blvd & South Water St,Subscriber,Male,1950,7.2,2019-03-19,19,3,16,75,Male,Subscriber
+22288467,2019-04-11 16:10:01 UTC,2019-04-11 16:39:35 UTC,59,1774,195,Columbus Dr & Randolph St,7,Field Blvd & South Water St,Customer,Female,1956,29.57,2019-04-11,11,4,16,69,Female,Customer
+24065744,2019-07-30 19:56:02 UTC,2019-07-30 20:04:20 UTC,3052,498,39,Wabash Ave & Adams St,7,Field Blvd & South Water St,Subscriber,Male,1959,8.3,2019-07-30,30,7,19,66,Male,Subscriber
+23258633,2019-06-20 10:40:42 UTC,2019-06-20 11:04:51 UTC,5972,1449,180,Ritchie Ct & Banks St,97,Field Museum,Customer,Male,1957,24.15,2019-06-20,20,6,10,68,Male,Customer
+24046781,2019-07-30 05:58:40 UTC,2019-07-30 06:04:42 UTC,2167,362,77,Clinton St & Madison St,89,Financial Pl & Ida B Wells Dr,Subscriber,Male,1948,6.03,2019-07-30,30,7,5,77,Male,Subscriber
+25044238,2019-09-19 14:58:20 UTC,2019-09-19 15:07:10 UTC,2534,529,100,Orleans St & Merchandise Mart Plaza,89,Financial Pl & Ida B Wells Dr,Subscriber,Male,1958,8.82,2019-09-19,19,9,14,67,Male,Subscriber
+22580669,2019-05-08 15:07:33 UTC,2019-05-08 15:18:05 UTC,4989,632,55,Halsted St & Roosevelt Rd,89,Financial Pl & Ida B Wells Dr (Temp),Subscriber,Male,1958,10.53,2019-05-08,8,5,15,67,Male,Subscriber
+22192782,2019-04-02 15:12:53 UTC,2019-04-02 15:20:28 UTC,746,455,100,Orleans St & Merchandise Mart Plaza,89,Financial Pl & Ida B Wells Dr (Temp),Subscriber,Male,1958,7.58,2019-04-02,2,4,15,67,Male,Subscriber
+25794148,2019-11-28 15:42:03 UTC,2019-11-28 17:00:47 UTC,3378,4723,426,Ellis Ave & 60th St,150,Fort Dearborn Dr & 31st St,Customer,Female,2000,78.72,2019-11-28,28,11,15,25,Female,Customer
+24930679,2019-09-13 13:45:18 UTC,2019-09-13 14:28:59 UTC,840,2621,424,Museum of Science and Industry,150,Fort Dearborn Dr & 31st St,Customer,Female,1957,43.68,2019-09-13,13,9,13,68,Female,Customer
+24409380,2019-08-16 08:01:29 UTC,2019-08-16 08:18:21 UTC,965,1011,3,Shedd Aquarium,150,Fort Dearborn Dr & 31st St,Subscriber,Male,1950,16.85,2019-08-16,16,8,8,75,Male,Subscriber
+21895740,2019-02-07 18:38:30 UTC,2019-02-07 18:43:05 UTC,3177,275,106,State St & Pearson St,31,Franklin St & Chicago Ave,Subscriber,Male,1952,4.58,2019-02-07,7,2,18,73,Male,Subscriber
+22294246,2019-04-12 07:38:37 UTC,2019-04-12 07:43:17 UTC,1884,280,77,Clinton St & Madison St,36,Franklin St & Jackson Blvd,Subscriber,Male,1957,4.67,2019-04-12,12,4,7,68,Male,Subscriber
+24069388,2019-07-31 07:13:33 UTC,2019-07-31 07:18:21 UTC,6312,287,41,Federal St & Polk St,36,Franklin St & Jackson Blvd,Subscriber,Male,1958,4.78,2019-07-31,31,7,7,67,Male,Subscriber
+24752758,2019-09-03 14:36:36 UTC,2019-09-03 14:45:31 UTC,160,534,197,Michigan Ave & Madison St,36,Franklin St & Jackson Blvd,Subscriber,Male,1953,8.9,2019-09-03,3,9,14,72,Male,Subscriber
+24765613,2019-09-04 08:17:27 UTC,2019-09-04 08:22:51 UTC,357,324,33,State St & Van Buren St,36,Franklin St & Jackson Blvd,Subscriber,Male,2001,5.4,2019-09-04,4,9,8,24,Male,Subscriber
+25809531,2019-12-03 07:12:28 UTC,2019-12-03 07:22:11 UTC,1119,582,59,Wabash Ave & Roosevelt Rd,36,Franklin St & Jackson Blvd,Subscriber,Male,1952,9.7,2019-12-03,3,12,7,73,Male,Subscriber
+25211979,2019-09-30 13:28:17 UTC,2019-09-30 13:37:17 UTC,991,540,37,Dearborn St & Adams St,164,Franklin St & Lake St,Subscriber,Male,1956,9,2019-09-30,30,9,13,69,Male,Subscriber
+22941839,2019-06-02 12:18:29 UTC,2019-06-02 12:40:10 UTC,5309,1301,320,Loomis St & Lexington St,164,Franklin St & Lake St,Subscriber,Male,1949,21.68,2019-06-02,2,6,12,76,Male,Subscriber
+25437678,2019-10-16 07:00:54 UTC,2019-10-16 07:06:29 UTC,4832,334,43,Michigan Ave & Washington St,164,Franklin St & Lake St,Subscriber,Male,1954,5.57,2019-10-16,16,10,7,71,Male,Subscriber
+23374394,2019-06-26 08:19:55 UTC,2019-06-26 08:51:18 UTC,3805,1883,141,Clark St & Lincoln Ave,287,Franklin St & Monroe St,Subscriber,Female,1959,31.38,2019-06-26,26,6,8,66,Female,Subscriber
+25356497,2019-10-09 16:32:43 UTC,2019-10-09 16:38:26 UTC,1159,343,91,Clinton St & Washington Blvd,287,Franklin St & Monroe St,Subscriber,,1953,5.72,2019-10-09,9,10,16,72,Unknown,Subscriber
+25036617,2019-09-19 07:21:54 UTC,2019-09-19 07:25:57 UTC,77,242,91,Clinton St & Washington Blvd,287,Franklin St & Monroe St,Subscriber,Male,1956,4.03,2019-09-19,19,9,7,69,Male,Subscriber
+23032058,2019-06-07 07:00:42 UTC,2019-06-07 07:08:58 UTC,5841,496,195,Columbus Dr & Randolph St,287,Franklin St & Monroe St,Subscriber,Male,1957,8.27,2019-06-07,7,6,7,68,Male,Subscriber
+25626707,2019-11-03 09:52:13 UTC,2019-11-03 09:57:12 UTC,2617,299,283,LaSalle St & Jackson Blvd,287,Franklin St & Monroe St,Subscriber,Male,1953,4.98,2019-11-03,3,11,9,72,Male,Subscriber
+25732633,2019-11-19 12:46:55 UTC,2019-11-19 12:57:55 UTC,2552,660,125,Rush St & Hubbard St,287,Franklin St & Monroe St,Subscriber,Male,1955,11,2019-11-19,19,11,12,70,Male,Subscriber
+23860840,2019-07-20 13:52:21 UTC,2019-07-20 14:08:26 UTC,2911,964,125,Rush St & Hubbard St,287,Franklin St & Monroe St,Customer,Male,2000,16.07,2019-07-20,20,7,13,25,Male,Customer
+22142396,2019-03-27 08:20:02 UTC,2019-03-27 08:29:58 UTC,3377,596,111,Sedgwick St & Huron St,286,Franklin St & Quincy St,Subscriber,Female,1956,9.93,2019-03-27,27,3,8,69,Female,Subscriber
+24094359,2019-08-01 09:00:45 UTC,2019-08-01 09:11:52 UTC,619,667,449,Clark St & Columbia Ave,525,Glenwood Ave & Touhy Ave,Subscriber,Male,1954,11.12,2019-08-01,1,8,9,71,Male,Subscriber
+25258370,2019-10-03 11:21:45 UTC,2019-10-03 11:28:03 UTC,483,378,451,Sheridan Rd & Loyola Ave,525,Glenwood Ave & Touhy Ave,Subscriber,Male,2000,6.3,2019-10-03,3,10,11,25,Male,Subscriber
+24097888,2019-08-01 13:20:18 UTC,2019-08-01 13:25:48 UTC,2768,329,346,Ada St & Washington Blvd,198,Green St & Madison St,Subscriber,Male,1959,5.48,2019-08-01,1,8,13,66,Male,Subscriber
+23032356,2019-06-07 07:16:36 UTC,2019-06-07 07:19:27 UTC,1679,171,77,Clinton St & Madison St,198,Green St & Madison St,Subscriber,Male,1958,2.85,2019-06-07,7,6,7,67,Male,Subscriber
+25692408,2019-11-12 07:39:49 UTC,2019-11-12 07:43:15 UTC,3568,205,77,Clinton St & Madison St,198,Green St & Madison St,Subscriber,Male,1958,3.42,2019-11-12,12,11,7,67,Male,Subscriber
+21852841,2019-01-24 07:35:41 UTC,2019-01-24 07:44:01 UTC,4976,500,36,Franklin St & Jackson Blvd,198,Green St & Madison St,Subscriber,Male,1956,8.33,2019-01-24,24,1,7,69,Male,Subscriber
+22587400,2019-05-08 21:11:58 UTC,2019-05-08 21:34:50 UTC,1335,1372,454,Broadway & Granville Ave,520,Greenview Ave & Jarvis Ave,Subscriber,Female,1955,22.87,2019-05-08,8,5,21,70,Female,Subscriber
+23494647,2019-07-01 17:43:59 UTC,2019-07-01 17:51:20 UTC,4236,441,354,Sheridan Rd & Greenleaf Ave,520,Greenview Ave & Jarvis Ave,Subscriber,Male,1957,7.35,2019-07-01,1,7,17,68,Male,Subscriber
+23199791,2019-06-16 21:33:22 UTC,2019-06-16 21:55:30 UTC,1879,1328,354,Sheridan Rd & Greenleaf Ave,520,Greenview Ave & Jarvis Ave,Subscriber,Female,1955,22.13,2019-06-16,16,6,21,70,Female,Subscriber
+23334338,2019-06-24 11:47:55 UTC,2019-06-24 11:52:48 UTC,2013,293,206,Halsted St & Archer Ave,135,Halsted St & 21st St,Customer,Male,2000,4.88,2019-06-24,24,6,11,25,Male,Customer
+22891825,2019-05-30 16:09:38 UTC,2019-05-30 16:46:55 UTC,3121,2237,419,Lake Park Ave & 53rd St,262,Halsted St & 37th St,Subscriber,Male,1958,37.28,2019-05-30,30,5,16,67,Male,Subscriber
+25061969,2019-09-20 12:06:30 UTC,2019-09-20 12:15:02 UTC,4266,511,84,Milwaukee Ave & Grand Ave,331,Halsted St & Clybourn Ave,Subscriber,Male,1949,8.52,2019-09-20,20,9,12,76,Male,Subscriber
+22810045,2019-05-25 08:14:14 UTC,2019-05-25 08:22:24 UTC,6119,490,225,Halsted St & Dickens Ave,331,Halsted St & Clybourn Ave (*),Subscriber,,1955,8.17,2019-05-25,25,5,8,70,Unknown,Subscriber
+23931201,2019-07-24 10:47:37 UTC,2019-07-24 11:08:49 UTC,5361,1272,225,Halsted St & Dickens Ave,225,Halsted St & Dickens Ave,Subscriber,,1955,21.2,2019-07-24,24,7,10,70,Unknown,Subscriber
+24711681,2019-09-01 09:32:43 UTC,2019-09-01 09:38:02 UTC,3294,318,28,Larrabee St & Menomonee St,225,Halsted St & Dickens Ave,Subscriber,Male,1959,5.3,2019-09-01,1,9,9,66,Male,Subscriber
+25484262,2019-10-19 13:16:20 UTC,2019-10-19 13:22:38 UTC,5843,377,327,Sheffield Ave & Webster Ave,225,Halsted St & Dickens Ave,Subscriber,,1955,6.28,2019-10-19,19,10,13,70,Unknown,Subscriber
+22068093,2019-03-17 08:38:38 UTC,2019-03-17 08:44:17 UTC,5272,339,93,Sheffield Ave & Willow St,225,Halsted St & Dickens Ave,Subscriber,Male,1946,5.65,2019-03-17,17,3,8,79,Male,Subscriber
+25622470,2019-11-02 13:02:17 UTC,2019-11-02 13:10:44 UTC,5044,507,103,Clinton St & Polk St,282,Halsted St & Maxwell St,Subscriber,Male,1954,8.45,2019-11-02,2,11,13,71,Male,Subscriber
+24457150,2019-08-18 20:35:51 UTC,2019-08-18 20:39:12 UTC,4479,201,108,Halsted St & Polk St,282,Halsted St & Maxwell St,Customer,Male,2000,3.35,2019-08-18,18,8,20,25,Male,Customer
+22277493,2019-04-10 08:49:17 UTC,2019-04-10 08:58:14 UTC,307,537,91,Clinton St & Washington Blvd,108,Halsted St & Polk St,Subscriber,Male,1956,8.95,2019-04-10,10,4,8,69,Male,Subscriber
+23471004,2019-06-30 12:51:14 UTC,2019-06-30 13:02:06 UTC,1905,652,320,Loomis St & Lexington St,108,Halsted St & Polk St,Subscriber,Male,1949,10.87,2019-06-30,30,6,12,76,Male,Subscriber
+22116374,2019-03-23 13:45:42 UTC,2019-03-23 14:13:07 UTC,2288,1645,305,Western Ave & Division St,108,Halsted St & Polk St,Subscriber,Male,1959,27.42,2019-03-23,23,3,13,66,Male,Subscriber
+21787722,2019-01-09 06:07:47 UTC,2019-01-09 06:22:30 UTC,4361,883,89,Financial Pl & Ida B Wells Dr (Temp),55,Halsted St & Roosevelt Rd,Subscriber,Male,1958,14.72,2019-01-09,9,1,6,67,Male,Subscriber
+22490788,2019-05-01 06:07:18 UTC,2019-05-01 06:19:10 UTC,3949,712,89,Financial Pl & Ida B Wells Dr (Temp),55,Halsted St & Roosevelt Rd,Subscriber,Male,1958,11.87,2019-05-01,1,5,6,67,Male,Subscriber
+21961377,2019-02-25 06:12:42 UTC,2019-02-25 06:28:02 UTC,953,920,89,Financial Pl & Ida B Wells Dr (Temp),55,Halsted St & Roosevelt Rd,Subscriber,Male,1958,15.33,2019-02-25,25,2,6,67,Male,Subscriber
+22992382,2019-06-05 06:47:51 UTC,2019-06-05 06:59:52 UTC,6081,721,89,Financial Pl & Ida B Wells Dr (Temp),55,Halsted St & Roosevelt Rd,Subscriber,Male,1958,12.02,2019-06-05,5,6,6,67,Male,Subscriber
+25536276,2019-10-23 16:40:59 UTC,2019-10-23 16:43:55 UTC,3542,175,282,Halsted St & Maxwell St,55,Halsted St & Roosevelt Rd,Subscriber,Female,2000,2.92,2019-10-23,23,10,16,25,Female,Subscriber
+25757244,2019-11-22 13:11:19 UTC,2019-11-23 10:33:01 UTC,3390,76902,426,Ellis Ave & 60th St,425,Harper Ave & 59th St,Subscriber,Male,2000,1281.7,2019-11-22,22,11,13,25,Male,Subscriber
+25487354,2019-10-19 15:20:51 UTC,2019-10-19 15:26:05 UTC,2261,314,423,University Ave & 57th St,425,Harper Ave & 59th St,Subscriber,Male,2001,5.23,2019-10-19,19,10,15,24,Male,Subscriber
+25724372,2019-11-18 13:39:44 UTC,2019-11-18 13:48:21 UTC,610,517,241,Morgan St & Polk St,261,Hermitage Ave & Polk St,Subscriber,Male,1956,8.62,2019-11-18,18,11,13,69,Male,Subscriber
+25752504,2019-11-21 18:58:33 UTC,2019-11-21 18:59:48 UTC,3722,74,342,Wolcott Ave & Polk St,261,Hermitage Ave & Polk St,Subscriber,Male,2001,1.23,2019-11-21,21,11,18,24,Male,Subscriber
+22194454,2019-04-02 17:08:47 UTC,2019-04-02 17:27:20 UTC,2640,1113,49,Dearborn St & Monroe St,255,Indiana Ave & Roosevelt Rd,Subscriber,Male,1948,18.55,2019-04-02,2,4,17,77,Male,Subscriber
+25023088,2019-09-18 13:44:00 UTC,2019-09-18 13:57:41 UTC,2431,821,49,Dearborn St & Monroe St,255,Indiana Ave & Roosevelt Rd,Subscriber,Female,1958,13.68,2019-09-18,18,9,13,67,Female,Subscriber
+24333665,2019-08-12 07:13:16 UTC,2019-08-12 07:20:32 UTC,5742,435,273,Michigan Ave & 18th St,255,Indiana Ave & Roosevelt Rd,Subscriber,Female,1955,7.25,2019-08-12,12,8,7,70,Female,Subscriber
+23711506,2019-07-12 14:14:55 UTC,2019-07-12 14:49:40 UTC,1343,2084,85,Michigan Ave & Oak St,255,Indiana Ave & Roosevelt Rd,Customer,Male,2000,34.73,2019-07-12,12,7,14,25,Male,Customer
+23389398,2019-06-26 18:18:36 UTC,2019-06-26 18:29:29 UTC,801,653,43,Michigan Ave & Washington St,255,Indiana Ave & Roosevelt Rd,Subscriber,Male,1959,10.88,2019-06-26,26,6,18,66,Male,Subscriber
+24365544,2019-08-13 22:11:23 UTC,2019-08-13 22:48:36 UTC,3374,2233,535,Pulaski Rd & Congress Pkwy,433,Kedzie Ave & Harrison St,Subscriber,Male,1952,37.22,2019-08-13,13,8,22,73,Male,Subscriber
+24861760,2019-09-09 17:10:37 UTC,2019-09-09 17:29:06 UTC,6207,1109,325,Clark St & Winnemac Ave,476,Kedzie Ave & Leland Ave,Subscriber,Female,1956,18.48,2019-09-09,9,9,17,69,Female,Subscriber
+24588672,2019-08-25 12:51:48 UTC,2019-08-25 12:59:49 UTC,1891,481,423,University Ave & 57th St,322,Kimbark Ave & 53rd St,Subscriber,Male,2000,8.02,2019-08-25,25,8,12,25,Male,Subscriber
+25816356,2019-12-03 19:42:39 UTC,2019-12-03 19:52:50 UTC,1388,611,192,Canal St & Adams St,74,Kingsbury St & Erie St,Subscriber,Male,1957,10.18,2019-12-03,3,12,19,68,Male,Subscriber
+24085995,2019-07-31 19:08:54 UTC,2019-07-31 19:18:29 UTC,645,575,81,Daley Center Plaza,74,Kingsbury St & Erie St,Subscriber,Male,1957,9.58,2019-07-31,31,7,19,68,Male,Subscriber
+23050757,2019-06-07 20:11:36 UTC,2019-06-07 20:19:36 UTC,3759,480,140,Dearborn Pkwy & Delaware Pl,74,Kingsbury St & Erie St,Subscriber,Male,1958,8,2019-06-07,7,6,20,67,Male,Subscriber
+21851258,2019-01-23 17:19:57 UTC,2019-01-23 17:33:30 UTC,2442,813,142,McClurg Ct & Erie St,74,Kingsbury St & Erie St,Subscriber,Male,1957,13.55,2019-01-23,23,1,17,68,Male,Subscriber
+25286335,2019-10-05 09:24:29 UTC,2019-10-05 09:32:58 UTC,3048,508,161,Rush St & Superior St,74,Kingsbury St & Erie St,Subscriber,Male,1957,8.47,2019-10-05,5,10,9,68,Male,Subscriber
+25828966,2019-12-05 10:36:31 UTC,2019-12-05 10:40:12 UTC,1219,220,74,Kingsbury St & Erie St,133,Kingsbury St & Kinzie St,Subscriber,Male,1958,3.67,2019-12-05,5,12,10,67,Male,Subscriber
+24357505,2019-08-13 16:46:46 UTC,2019-08-13 16:50:11 UTC,1694,204,74,Kingsbury St & Erie St,133,Kingsbury St & Kinzie St,Subscriber,Male,1957,3.4,2019-08-13,13,8,16,68,Male,Subscriber
+24472215,2019-08-19 17:29:30 UTC,2019-08-19 17:41:09 UTC,4451,698,211,St. Clair St & Erie St,133,Kingsbury St & Kinzie St,Subscriber,Male,2001,11.63,2019-08-19,19,8,17,24,Male,Subscriber
+24119015,2019-08-02 11:40:21 UTC,2019-08-02 12:21:35 UTC,5595,2474,23,Orleans St & Elm St,627,LaSalle Dr & Huron St,Subscriber,Female,1958,41.23,2019-08-02,2,8,11,67,Female,Subscriber
+22195591,2019-04-02 17:52:29 UTC,2019-04-02 17:56:34 UTC,6454,245,81,Daley Center Plaza,40,LaSalle St & Adams St,Subscriber,Male,1956,4.08,2019-04-02,2,4,17,69,Male,Subscriber
+23984015,2019-07-26 17:38:36 UTC,2019-07-26 17:55:01 UTC,5203,984,161,Rush St & Superior St,40,LaSalle St & Adams St,Customer,Male,2000,16.4,2019-07-26,26,7,17,25,Male,Customer
+21830316,2019-01-17 08:37:25 UTC,2019-01-17 08:47:03 UTC,1156,578,301,Clark St & Schiller St,181,LaSalle St & Illinois St,Subscriber,Male,1958,9.63,2019-01-17,17,1,8,67,Male,Subscriber
+25230351,2019-10-01 12:03:27 UTC,2019-10-01 12:33:07 UTC,382,1779,329,Lake Shore Dr & Diversey Pkwy,181,LaSalle St & Illinois St,Subscriber,Male,1957,29.65,2019-10-01,1,10,12,68,Male,Subscriber
+25828568,2019-12-05 09:22:43 UTC,2019-12-05 09:30:48 UTC,1423,485,142,McClurg Ct & Erie St,181,LaSalle St & Illinois St,Subscriber,Male,1955,8.08,2019-12-05,5,12,9,70,Male,Subscriber
+22581673,2019-05-08 16:21:56 UTC,2019-05-08 16:36:54 UTC,60,898,620,Orleans St & Chestnut St (NEXT Apts),181,LaSalle St & Illinois St,Subscriber,Female,1958,14.97,2019-05-08,8,5,16,67,Female,Subscriber
+25706886,2019-11-15 07:49:28 UTC,2019-11-15 07:53:51 UTC,3722,263,191,Canal St & Monroe St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1954,4.38,2019-11-15,15,11,7,71,Male,Subscriber
+21952245,2019-02-22 07:49:01 UTC,2019-02-22 07:53:19 UTC,2545,258,77,Clinton St & Madison St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1954,4.3,2019-02-22,22,2,7,71,Male,Subscriber
+22867917,2019-05-29 08:14:19 UTC,2019-05-29 08:23:12 UTC,6025,533,91,Clinton St & Washington Blvd,283,LaSalle St & Jackson Blvd,Subscriber,Male,1956,8.88,2019-05-29,29,5,8,69,Male,Subscriber
+22575634,2019-05-08 06:13:12 UTC,2019-05-08 06:20:21 UTC,777,429,91,Clinton St & Washington Blvd,283,LaSalle St & Jackson Blvd,Subscriber,Male,1958,7.15,2019-05-08,8,5,6,67,Male,Subscriber
+22730731,2019-05-20 05:35:05 UTC,2019-05-20 05:43:03 UTC,474,478,195,Columbus Dr & Randolph St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1952,7.97,2019-05-20,20,5,5,73,Male,Subscriber
+21845142,2019-01-22 04:12:29 UTC,2019-01-22 04:15:07 UTC,5470,158,49,Dearborn St & Monroe St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1957,2.63,2019-01-22,22,1,4,68,Male,Subscriber
+21840171,2019-01-18 17:30:17 UTC,2019-01-18 17:34:58 UTC,3590,281,77,Clinton St & Madison St,98,LaSalle St & Washington St,Subscriber,Female,1957,4.68,2019-01-18,18,1,17,68,Female,Subscriber
+21852454,2019-01-24 05:50:00 UTC,2019-01-24 05:59:11 UTC,2775,551,43,Michigan Ave & Washington St,98,LaSalle St & Washington St,Subscriber,Male,1958,9.18,2019-01-24,24,1,5,67,Male,Subscriber
+23141979,2019-06-13 05:51:51 UTC,2019-06-13 05:58:14 UTC,2090,383,43,Michigan Ave & Washington St,98,LaSalle St & Washington St,Subscriber,Male,1958,6.38,2019-06-13,13,6,5,67,Male,Subscriber
+24232093,2019-08-07 13:59:46 UTC,2019-08-07 14:24:15 UTC,5564,1468,195,Columbus Dr & Randolph St,406,Lake Park Ave & 35th St,Subscriber,Male,1959,24.47,2019-08-07,7,8,13,66,Male,Subscriber
+25601447,2019-10-29 18:11:51 UTC,2019-10-29 18:18:40 UTC,4087,409,328,Ellis Ave & 58th St,345,Lake Park Ave & 56th St,Subscriber,Female,1958,6.82,2019-10-29,29,10,18,67,Female,Subscriber
+24981548,2019-09-16 09:17:29 UTC,2019-09-16 09:23:02 UTC,4600,332,423,University Ave & 57th St,345,Lake Park Ave & 56th St,Subscriber,Male,1953,5.53,2019-09-16,16,9,9,72,Male,Subscriber
+23920963,2019-07-23 18:37:28 UTC,2019-07-23 19:23:29 UTC,5412,2760,334,Lake Shore Dr & Belmont Ave,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1957,46,2019-07-23,23,7,18,68,Male,Subscriber
+25080372,2019-09-21 11:34:30 UTC,2019-09-21 11:44:37 UTC,1152,607,329,Lake Shore Dr & Diversey Pkwy,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1900,10.12,2019-09-21,21,9,11,125,Male,Subscriber
+24719096,2019-09-01 14:42:51 UTC,2019-09-01 15:05:22 UTC,4484,1351,249,Montrose Harbor,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1954,22.52,2019-09-01,1,9,14,71,Male,Subscriber
+24075620,2019-07-31 13:05:38 UTC,2019-07-31 14:30:54 UTC,4730,5116,329,Lake Shore Dr & Diversey Pkwy,329,Lake Shore Dr & Diversey Pkwy,Customer,Male,2000,85.27,2019-07-31,31,7,13,25,Male,Customer
+22457204,2019-04-26 11:59:23 UTC,2019-04-26 12:02:07 UTC,6038,164,157,Lake Shore Dr & Wellington Ave,329,Lake Shore Dr & Diversey Pkwy,Subscriber,Female,1955,2.73,2019-04-26,26,4,11,70,Female,Subscriber
+22910827,2019-05-31 14:13:50 UTC,2019-05-31 14:32:30 UTC,4079,1120,465,Marine Dr & Ainslie St,329,Lake Shore Dr & Diversey Pkwy,Subscriber,Male,1953,18.67,2019-05-31,31,5,14,72,Male,Subscriber
+22968516,2019-06-03 17:48:04 UTC,2019-06-03 18:03:27 UTC,5202,923,85,Michigan Ave & Oak St,329,Lake Shore Dr & Diversey Pkwy,Subscriber,Male,1959,15.38,2019-06-03,3,6,17,66,Male,Subscriber
+22205362,2019-04-03 17:14:53 UTC,2019-04-03 17:52:28 UTC,4678,2255,419,Lake Park Ave & 53rd St,76,Lake Shore Dr & Monroe St,Subscriber,Male,1958,37.58,2019-04-03,3,4,17,67,Male,Subscriber
+23670844,2019-07-10 18:46:50 UTC,2019-07-10 19:14:36 UTC,3234,1665,142,McClurg Ct & Erie St,76,Lake Shore Dr & Monroe St,Customer,Male,1957,27.75,2019-07-10,10,7,18,68,Male,Customer
+24899184,2019-09-11 17:15:41 UTC,2019-09-11 17:40:04 UTC,6322,1462,177,Theater on the Lake,76,Lake Shore Dr & Monroe St,Subscriber,Female,1957,24.37,2019-09-11,11,9,17,68,Female,Subscriber
+23022940,2019-06-06 16:45:16 UTC,2019-06-06 17:35:16 UTC,1665,3000,170,Clinton St & 18th St,268,Lake Shore Dr & North Blvd,Subscriber,Male,1953,50,2019-06-06,6,6,16,72,Male,Subscriber
+24728902,2019-09-02 06:31:02 UTC,2019-09-02 06:32:43 UTC,1699,101,268,Lake Shore Dr & North Blvd,268,Lake Shore Dr & North Blvd,Subscriber,Female,1959,1.68,2019-09-02,2,9,6,66,Female,Subscriber
+23751689,2019-07-14 12:10:41 UTC,2019-07-14 12:40:48 UTC,1281,1807,465,Marine Dr & Ainslie St,268,Lake Shore Dr & North Blvd,Customer,Male,1957,30.12,2019-07-14,14,7,12,68,Male,Customer
+24058015,2019-07-30 16:29:56 UTC,2019-07-30 17:27:21 UTC,2175,3445,168,Michigan Ave & 14th St,268,Lake Shore Dr & North Blvd,Customer,Female,2001,57.42,2019-07-30,30,7,16,24,Female,Customer
+24212911,2019-08-06 16:23:48 UTC,2019-08-06 16:30:10 UTC,5353,382,85,Michigan Ave & Oak St,268,Lake Shore Dr & North Blvd,Subscriber,Male,2002,6.37,2019-08-06,6,8,16,23,Male,Subscriber
+24873927,2019-09-10 11:08:34 UTC,2019-09-10 11:45:19 UTC,2175,2205,173,Mies van der Rohe Way & Chicago Ave,268,Lake Shore Dr & North Blvd,Subscriber,Male,1959,36.75,2019-09-10,10,9,11,66,Male,Subscriber
+22504680,2019-05-02 13:38:05 UTC,2019-05-02 13:51:50 UTC,4947,825,126,Clark St & North Ave,99,Lake Shore Dr & Ohio St,Subscriber,Male,2001,13.75,2019-05-02,2,5,13,24,Male,Subscriber
+22894661,2019-05-30 17:24:32 UTC,2019-05-30 17:42:14 UTC,1734,1062,287,Franklin St & Monroe St,99,Lake Shore Dr & Ohio St,Subscriber,Male,1956,17.7,2019-05-30,30,5,17,69,Male,Subscriber
+22659645,2019-05-14 20:57:57 UTC,2019-05-14 21:03:26 UTC,210,329,26,McClurg Ct & Illinois St,99,Lake Shore Dr & Ohio St,Subscriber,Male,1958,5.48,2019-05-14,14,5,20,67,Male,Subscriber
+23224604,2019-06-18 12:02:31 UTC,2019-06-18 12:26:42 UTC,1040,1451,20,Sheffield Ave & Kingsbury St,99,Lake Shore Dr & Ohio St,Subscriber,Male,1952,24.18,2019-06-18,18,6,12,73,Male,Subscriber
+24750358,2019-09-03 10:08:18 UTC,2019-09-03 12:40:09 UTC,1482,9111,220,Clark St & Drummond Pl,157,Lake Shore Dr & Wellington Ave,Customer,Male,1954,151.85,2019-09-03,3,9,10,71,Male,Customer
+24694365,2019-08-31 09:38:17 UTC,2019-08-31 10:02:04 UTC,5349,1427,176,Clark St & Elm St,157,Lake Shore Dr & Wellington Ave,Subscriber,Female,1959,23.78,2019-08-31,31,8,9,66,Female,Subscriber
+23263291,2019-06-20 16:50:02 UTC,2019-06-20 17:31:14 UTC,684,2472,283,LaSalle St & Jackson Blvd,157,Lake Shore Dr & Wellington Ave,Subscriber,Male,1953,41.2,2019-06-20,20,6,16,72,Male,Subscriber
+24375396,2019-08-14 15:09:57 UTC,2019-08-14 15:45:11 UTC,4884,2113,85,Michigan Ave & Oak St,157,Lake Shore Dr & Wellington Ave,Customer,Female,2000,35.22,2019-08-14,14,8,15,25,Female,Customer
+22911640,2019-05-31 14:50:45 UTC,2019-05-31 14:55:47 UTC,3843,302,115,Sheffield Ave & Wellington Ave,157,Lake Shore Dr & Wellington Ave,Subscriber,Male,1957,5.03,2019-05-31,31,5,14,68,Male,Subscriber
+23419686,2019-06-28 07:47:37 UTC,2019-06-28 08:09:58 UTC,4705,1341,177,Theater on the Lake,459,Lakefront Trail & Bryn Mawr Ave,Subscriber,Male,1946,22.35,2019-06-28,28,6,7,79,Male,Subscriber
+24149571,2019-08-03 15:33:59 UTC,2019-08-03 15:56:51 UTC,1526,1372,454,Broadway & Granville Ave,639,Lakefront Trail & Wilson Ave,Subscriber,Male,1954,22.87,2019-08-03,3,8,15,71,Male,Subscriber
+22950280,2019-06-02 17:04:09 UTC,2019-06-02 17:20:30 UTC,1467,981,85,Michigan Ave & Oak St,313,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1956,16.35,2019-06-02,2,6,17,69,Male,Subscriber
+22529497,2019-05-04 16:08:55 UTC,2019-05-04 16:28:41 UTC,5824,1186,133,Kingsbury St & Kinzie St,288,Larrabee St & Armitage Ave,Subscriber,Female,1951,19.77,2019-05-04,4,5,16,74,Female,Subscriber
+23452811,2019-06-29 15:27:33 UTC,2019-06-29 15:42:54 UTC,2694,921,133,Kingsbury St & Kinzie St,288,Larrabee St & Armitage Ave,Subscriber,Female,1951,15.35,2019-06-29,29,6,15,74,Female,Subscriber
+23375564,2019-06-26 08:52:38 UTC,2019-06-26 09:03:16 UTC,3609,638,145,Mies van der Rohe Way & Chestnut St,359,Larrabee St & Division St,Subscriber,Male,1954,10.63,2019-06-26,26,6,8,71,Male,Subscriber
+25929753,2019-12-23 09:49:50 UTC,2019-12-23 09:56:00 UTC,3469,370,92,Carpenter St & Huron St,48,Larrabee St & Kingsbury St,Subscriber,Male,1955,6.17,2019-12-23,23,12,9,70,Male,Subscriber
+22819312,2019-05-25 15:21:27 UTC,2019-05-25 15:24:56 UTC,5973,209,359,Larrabee St & Division St,48,Larrabee St & Kingsbury St,Subscriber,Male,1958,3.48,2019-05-25,25,5,15,67,Male,Subscriber
+24685145,2019-08-30 16:24:42 UTC,2019-08-30 16:39:54 UTC,1929,912,157,Lake Shore Dr & Wellington Ave,28,Larrabee St & Menomonee St,Subscriber,Male,1956,15.2,2019-08-30,30,8,16,69,Male,Subscriber
+23524965,2019-07-03 10:17:15 UTC,2019-07-03 10:45:16 UTC,3198,1681,20,Sheffield Ave & Kingsbury St,28,Larrabee St & Menomonee St,Subscriber,Female,2003,28.02,2019-07-03,3,7,10,22,Female,Subscriber
+22873769,2019-05-29 15:47:56 UTC,2019-05-29 15:52:53 UTC,3623,297,113,Bissell St & Armitage Ave,144,Larrabee St & Webster Ave,Subscriber,Male,1958,4.95,2019-05-29,29,5,15,67,Male,Subscriber
+22692595,2019-05-16 18:26:34 UTC,2019-05-16 18:47:53 UTC,790,1279,144,Larrabee St & Webster Ave,144,Larrabee St & Webster Ave,Subscriber,Male,2002,21.32,2019-05-16,16,5,18,23,Male,Subscriber
+23680841,2019-07-11 11:08:30 UTC,2019-07-11 11:15:48 UTC,5089,438,67,Sheffield Ave & Fullerton Ave,144,Larrabee St & Webster Ave,Subscriber,Female,1956,7.3,2019-07-11,11,7,11,69,Female,Subscriber
+24850326,2019-09-08 22:24:45 UTC,2019-09-08 23:07:42 UTC,5821,2576,491,Talman Ave & Addison St,144,Larrabee St & Webster Ave,Subscriber,Male,2002,42.93,2019-09-08,8,9,22,23,Male,Subscriber
+25214155,2019-09-30 16:00:47 UTC,2019-09-30 16:12:23 UTC,4623,696,342,Wolcott Ave & Polk St,659,Leavitt St & Chicago Ave,Subscriber,Male,1956,11.6,2019-09-30,30,9,16,69,Male,Subscriber
+22967350,2019-06-03 17:19:54 UTC,2019-06-03 17:34:12 UTC,4613,858,258,Logan Blvd & Elston Ave,213,Leavitt St & North Ave,Subscriber,Male,1956,14.3,2019-06-03,3,6,17,69,Male,Subscriber
+23211782,2019-06-17 17:10:03 UTC,2019-06-17 17:27:52 UTC,1834,1069,258,Logan Blvd & Elston Ave,213,Leavitt St & North Ave,Subscriber,Male,1956,17.82,2019-06-17,17,6,17,69,Male,Subscriber
+25839466,2019-12-06 15:23:22 UTC,2019-12-06 15:26:44 UTC,5203,201,243,Lincoln Ave & Sunnyside Ave,298,Lincoln Ave & Belle Plaine Ave,Subscriber,Male,1959,3.35,2019-12-06,6,12,15,66,Male,Subscriber
+24720100,2019-09-01 15:18:28 UTC,2019-09-01 15:28:01 UTC,4484,573,296,Broadway & Belmont Ave,131,Lincoln Ave & Belmont Ave,Subscriber,Male,1954,9.55,2019-09-01,1,9,15,71,Male,Subscriber
+25584943,2019-10-28 11:06:17 UTC,2019-10-28 11:21:02 UTC,346,885,329,Lake Shore Dr & Diversey Pkwy,127,Lincoln Ave & Fullerton Ave,Subscriber,Male,1957,14.75,2019-10-28,28,10,11,68,Male,Subscriber
+22786638,2019-05-23 16:33:28 UTC,2019-05-23 17:00:36 UTC,3888,1628,454,Broadway & Granville Ave,230,Lincoln Ave & Roscoe St,Subscriber,Male,1954,27.13,2019-05-23,23,5,16,71,Male,Subscriber
+23809382,2019-07-17 11:17:13 UTC,2019-07-17 11:33:58 UTC,993,1005,240,Sheridan Rd & Irving Park Rd,230,Lincoln Ave & Roscoe St,Subscriber,Male,1956,16.75,2019-07-17,17,7,11,69,Male,Subscriber
+24761724,2019-09-03 21:57:14 UTC,2019-09-03 22:23:55 UTC,4145,1600,116,Western Ave & Winnebago Ave,230,Lincoln Ave & Roscoe St,Subscriber,Male,1956,26.67,2019-09-03,3,9,21,69,Male,Subscriber
+25219802,2019-09-30 18:14:34 UTC,2019-09-30 18:20:58 UTC,1517,383,314,Ravenswood Ave & Berteau Ave,243,Lincoln Ave & Sunnyside Ave,Subscriber,Male,1956,6.38,2019-09-30,30,9,18,69,Male,Subscriber
+24918475,2019-09-12 17:33:33 UTC,2019-09-12 17:43:46 UTC,4378,613,482,Campbell Ave & Montrose Ave,257,Lincoln Ave & Waveland Ave,Subscriber,Male,1959,10.22,2019-09-12,12,9,17,66,Male,Subscriber
+22613727,2019-05-10 18:57:23 UTC,2019-05-10 19:34:22 UTC,1761,2219,81,Daley Center Plaza,257,Lincoln Ave & Waveland Ave,Subscriber,Male,1958,36.98,2019-05-10,10,5,18,67,Male,Subscriber
+22580463,2019-05-08 14:40:12 UTC,2019-05-08 14:51:31 UTC,2566,679,239,Western Ave & Leland Ave,257,Lincoln Ave & Waveland Ave,Subscriber,Male,1959,11.32,2019-05-08,8,5,14,66,Male,Subscriber
+25775938,2019-11-25 13:55:24 UTC,2019-11-25 14:04:16 UTC,2079,532,172,Rush St & Cedar St,673,Lincoln Park Conservatory,Subscriber,Male,1958,8.87,2019-11-25,25,11,13,67,Male,Subscriber
+21888952,2019-02-06 16:17:58 UTC,2019-02-06 16:50:57 UTC,5967,1979,230,Lincoln Ave & Roscoe St,258,Logan Blvd & Elston Ave,Subscriber,Male,1956,32.98,2019-02-06,6,2,16,69,Male,Subscriber
+24955996,2019-09-14 16:39:25 UTC,2019-09-14 16:52:26 UTC,3521,780,116,Western Ave & Winnebago Ave,258,Logan Blvd & Elston Ave,Subscriber,Male,1956,13,2019-09-14,14,9,16,69,Male,Subscriber
+23162027,2019-06-14 08:17:17 UTC,2019-06-14 08:26:08 UTC,2944,531,77,Clinton St & Madison St,146,Loomis St & Jackson Blvd,Subscriber,Male,1956,8.85,2019-06-14,14,6,8,69,Male,Subscriber
+25648681,2019-11-05 13:35:48 UTC,2019-11-05 13:41:42 UTC,5090,354,109,900 W Harrison St,320,Loomis St & Lexington St,Subscriber,Male,2001,5.9,2019-11-05,5,11,13,24,Male,Subscriber
+23541776,2019-07-04 06:32:30 UTC,2019-07-04 06:59:52 UTC,1482,1642,320,Loomis St & Lexington St,320,Loomis St & Lexington St,Subscriber,Female,1951,27.37,2019-07-04,4,7,6,74,Female,Subscriber
+24010520,2019-07-27 21:35:41 UTC,2019-07-27 21:55:24 UTC,6097,1183,90,Millennium Park,320,Loomis St & Lexington St,Subscriber,Male,1958,19.72,2019-07-27,27,7,21,67,Male,Subscriber
+25143538,2019-09-25 11:31:03 UTC,2019-09-25 11:53:07 UTC,3334,1324,457,Clark St & Elmdale Ave,455,Maplewood Ave & Peterson Ave,Subscriber,Male,1953,22.07,2019-09-25,25,9,11,72,Male,Subscriber
+22829869,2019-05-26 09:16:24 UTC,2019-05-26 09:27:13 UTC,3541,649,306,Sheridan Rd & Buena Ave,465,Marine Dr & Ainslie St,Subscriber,Male,1953,10.82,2019-05-26,26,5,9,72,Male,Subscriber
+23865229,2019-07-20 17:51:16 UTC,2019-07-20 18:00:55 UTC,428,578,320,Loomis St & Lexington St,22,May St & Taylor St,Subscriber,Male,2000,9.63,2019-07-20,20,7,17,25,Male,Subscriber
+25365460,2019-10-10 07:22:06 UTC,2019-10-10 07:45:07 UTC,1396,1380,273,Michigan Ave & 18th St,142,McClurg Ct & Erie St,Subscriber,Male,1957,23,2019-10-10,10,10,7,68,Male,Subscriber
+22485396,2019-04-30 07:17:03 UTC,2019-04-30 07:45:59 UTC,1178,1736,93,Sheffield Ave & Willow St,142,McClurg Ct & Erie St,Subscriber,Male,1952,28.93,2019-04-30,30,4,7,73,Male,Subscriber
+24620795,2019-08-27 14:55:43 UTC,2019-08-27 14:59:50 UTC,4588,247,35,Streeter Dr & Grand Ave,142,McClurg Ct & Erie St,Subscriber,Male,1951,4.12,2019-08-27,27,8,14,74,Male,Subscriber
+22830400,2019-05-26 10:23:02 UTC,2019-05-26 10:25:05 UTC,696,123,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Subscriber,Male,1959,2.05,2019-05-26,26,5,10,66,Male,Subscriber
+23708379,2019-07-12 11:20:57 UTC,2019-07-12 11:29:53 UTC,4292,535,35,Streeter Dr & Grand Ave,26,McClurg Ct & Illinois St,Customer,Male,1953,8.92,2019-07-12,12,7,11,72,Male,Customer
+22283787,2019-04-11 07:34:24 UTC,2019-04-11 07:53:54 UTC,5310,1170,49,Dearborn St & Monroe St,62,McCormick Place,Customer,Male,1957,19.5,2019-04-11,11,4,7,68,Male,Customer
+22961358,2019-06-03 11:59:07 UTC,2019-06-03 12:09:59 UTC,706,652,89,Financial Pl & Ida B Wells Dr (Temp),168,Michigan Ave & 14th St,Subscriber,Female,1954,10.87,2019-06-03,3,6,11,71,Female,Subscriber
+25098297,2019-09-23 06:10:20 UTC,2019-09-23 06:18:12 UTC,1294,472,321,Wabash Ave & 9th St,168,Michigan Ave & 14th St,Subscriber,Female,1954,7.87,2019-09-23,23,9,6,71,Female,Subscriber
+25036585,2019-09-19 07:20:24 UTC,2019-09-19 07:30:00 UTC,2253,576,341,Adler Planetarium,273,Michigan Ave & 18th St,Subscriber,Male,1957,9.6,2019-09-19,19,9,7,68,Male,Subscriber
+23125074,2019-06-11 19:44:06 UTC,2019-06-11 19:55:12 UTC,1023,666,202,Halsted St & 18th St,273,Michigan Ave & 18th St,Subscriber,Female,1959,11.1,2019-06-11,11,6,19,66,Female,Subscriber
+22599640,2019-05-09 18:42:14 UTC,2019-05-09 18:59:26 UTC,2142,1032,43,Michigan Ave & Washington St,273,Michigan Ave & 18th St,Subscriber,Male,1957,17.2,2019-05-09,9,5,18,68,Male,Subscriber
+23047541,2019-06-07 17:57:01 UTC,2019-06-07 18:10:32 UTC,1525,811,90,Millennium Park,273,Michigan Ave & 18th St,Subscriber,Male,1957,13.52,2019-06-07,7,6,17,68,Male,Subscriber
+25447274,2019-10-16 18:01:18 UTC,2019-10-16 18:07:14 UTC,4996,356,59,Wabash Ave & Roosevelt Rd,273,Michigan Ave & 18th St,Subscriber,Female,1950,5.93,2019-10-16,16,10,18,75,Female,Subscriber
+24210405,2019-08-06 14:03:13 UTC,2019-08-06 14:12:04 UTC,36,531,218,Wells St & 19th St,273,Michigan Ave & 18th St,Subscriber,Male,1951,8.85,2019-08-06,6,8,14,74,Male,Subscriber
+22121397,2019-03-24 09:32:13 UTC,2019-03-24 09:40:54 UTC,858,521,195,Columbus Dr & Randolph St,623,Michigan Ave & 8th St,Subscriber,Female,1958,8.68,2019-03-24,24,3,9,67,Female,Subscriber
+22965925,2019-06-03 16:46:46 UTC,2019-06-03 17:01:48 UTC,4427,902,100,Orleans St & Merchandise Mart Plaza,623,Michigan Ave & 8th St,Subscriber,Male,1958,15.03,2019-06-03,3,6,16,67,Male,Subscriber
+22267420,2019-04-09 15:12:56 UTC,2019-04-09 15:24:20 UTC,5265,684,44,State St & Randolph St,623,Michigan Ave & 8th St,Subscriber,Male,2000,11.4,2019-04-09,9,4,15,25,Male,Subscriber
+22521340,2019-05-04 07:18:58 UTC,2019-05-04 07:24:11 UTC,3325,313,195,Columbus Dr & Randolph St,45,Michigan Ave & Ida B Wells Dr,Subscriber,Male,1957,5.22,2019-05-04,4,5,7,68,Male,Subscriber
+24902134,2019-09-11 18:26:38 UTC,2019-09-11 19:08:34 UTC,1915,2516,150,Fort Dearborn Dr & 31st St,45,Michigan Ave & Ida B Wells Dr,Customer,Male,2000,41.93,2019-09-11,11,9,18,25,Male,Customer
+24707773,2019-08-31 18:09:58 UTC,2019-08-31 18:56:43 UTC,6241,2805,33,State St & Van Buren St,45,Michigan Ave & Ida B Wells Dr,Customer,Female,2001,46.75,2019-08-31,31,8,18,24,Female,Customer
+25717370,2019-11-17 08:46:46 UTC,2019-11-17 08:49:26 UTC,3207,159,39,Wabash Ave & Adams St,45,Michigan Ave & Ida B Wells Dr,Subscriber,Male,1947,2.65,2019-11-17,17,11,8,78,Male,Subscriber
+24076684,2019-07-31 14:17:59 UTC,2019-07-31 14:35:24 UTC,1889,1045,338,Calumet Ave & 18th St,284,Michigan Ave & Jackson Blvd,Subscriber,Male,1945,17.42,2019-07-31,31,7,14,80,Male,Subscriber
+24894393,2019-09-11 13:12:30 UTC,2019-09-11 13:41:39 UTC,5109,1748,120,Wentworth Ave & Cermak Rd (Temp),284,Michigan Ave & Jackson Blvd,Subscriber,Male,2000,29.13,2019-09-11,11,9,13,25,Male,Subscriber
+23402011,2019-06-27 11:32:18 UTC,2019-06-27 11:42:21 UTC,4633,603,191,Canal St & Monroe St (*),52,Michigan Ave & Lake St,Subscriber,Male,1929,10.05,2019-06-27,27,6,11,96,Male,Subscriber
+22495202,2019-05-01 14:46:41 UTC,2019-05-01 14:51:12 UTC,5873,271,81,Daley Center Plaza,52,Michigan Ave & Lake St,Subscriber,Male,1958,4.52,2019-05-01,1,5,14,67,Male,Subscriber
+23089448,2019-06-10 09:00:00 UTC,2019-06-10 09:13:33 UTC,4067,813,31,Franklin St & Chicago Ave,52,Michigan Ave & Lake St,Subscriber,Male,1957,13.55,2019-06-10,10,6,9,68,Male,Subscriber
+21946958,2019-02-21 08:56:46 UTC,2019-02-21 09:05:55 UTC,1812,549,255,Indiana Ave & Roosevelt Rd,52,Michigan Ave & Lake St,Subscriber,Male,1959,9.15,2019-02-21,21,2,8,66,Male,Subscriber
+24925096,2019-09-13 07:23:25 UTC,2019-09-13 07:31:10 UTC,3652,465,283,LaSalle St & Jackson Blvd,52,Michigan Ave & Lake St,Subscriber,Male,1958,7.75,2019-09-13,13,9,7,67,Male,Subscriber
+21903803,2019-02-10 11:57:42 UTC,2019-02-10 12:05:37 UTC,6362,475,192,Canal St & Adams St,197,Michigan Ave & Madison St,Subscriber,Male,1950,7.92,2019-02-10,10,2,11,75,Male,Subscriber
+25310910,2019-10-07 07:04:45 UTC,2019-10-07 07:10:44 UTC,1120,359,636,Orleans St & Hubbard St,197,Michigan Ave & Madison St,Subscriber,Male,1959,5.98,2019-10-07,7,10,7,66,Male,Subscriber
+24961758,2019-09-14 21:20:36 UTC,2019-09-14 21:35:11 UTC,5174,874,35,Streeter Dr & Grand Ave,197,Michigan Ave & Madison St,Customer,Male,2000,14.57,2019-09-14,14,9,21,25,Male,Customer
+22757870,2019-05-22 08:28:08 UTC,2019-05-22 08:35:26 UTC,5949,438,18,Wacker Dr & Washington St,197,Michigan Ave & Madison St,Subscriber,Male,1959,7.3,2019-05-22,22,5,8,66,Male,Subscriber
+24476931,2019-08-19 19:51:32 UTC,2019-08-19 19:54:02 UTC,4329,149,140,Dearborn Pkwy & Delaware Pl,85,Michigan Ave & Oak St,Subscriber,Male,1955,2.48,2019-08-19,19,8,19,70,Male,Subscriber
+25916255,2019-12-20 11:42:16 UTC,2019-12-20 13:50:02 UTC,2280,7665,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,Male,1952,127.75,2019-12-20,20,12,11,73,Male,Customer
+23306599,2019-06-22 16:14:50 UTC,2019-06-22 17:10:25 UTC,1427,3335,25,Michigan Ave & Pearson St,85,Michigan Ave & Oak St,Customer,Female,1958,55.58,2019-06-22,22,6,16,67,Female,Customer
+23698749,2019-07-11 19:51:01 UTC,2019-07-11 21:35:22 UTC,2729,6261,43,Michigan Ave & Washington St,85,Michigan Ave & Oak St,Customer,Male,2000,104.35,2019-07-11,11,7,19,25,Male,Customer
+24123163,2019-08-02 14:50:28 UTC,2019-08-02 15:19:43 UTC,3812,1755,3,Shedd Aquarium,85,Michigan Ave & Oak St,Customer,Male,1959,29.25,2019-08-02,2,8,14,66,Male,Customer
+21881151,2019-02-05 10:00:37 UTC,2019-02-05 10:09:33 UTC,5375,536,192,Canal St & Adams St,43,Michigan Ave & Washington St,Subscriber,Male,1950,8.93,2019-02-05,5,2,10,75,Male,Subscriber
+24249786,2019-08-08 08:57:18 UTC,2019-08-08 09:06:52 UTC,561,573,192,Canal St & Adams St,43,Michigan Ave & Washington St,Subscriber,Male,1950,9.55,2019-08-08,8,8,8,75,Male,Subscriber
+22044628,2019-03-13 16:37:47 UTC,2019-03-13 16:46:01 UTC,5716,494,191,Canal St & Monroe St (*),43,Michigan Ave & Washington St,Subscriber,Male,1951,8.23,2019-03-13,13,3,16,74,Male,Subscriber
+23170972,2019-06-14 15:41:53 UTC,2019-06-14 16:00:26 UTC,1590,1113,196,Cityfront Plaza Dr & Pioneer Ct,43,Michigan Ave & Washington St,Subscriber,Male,2001,18.55,2019-06-14,14,6,15,24,Male,Subscriber
+25407506,2019-10-13 17:51:04 UTC,2019-10-13 17:57:39 UTC,2895,395,50,Clark St & Ida B Wells Dr,43,Michigan Ave & Washington St,Subscriber,Male,2002,6.58,2019-10-13,13,10,17,23,Male,Subscriber
+22443663,2019-04-25 12:57:22 UTC,2019-04-25 13:06:30 UTC,3838,548,96,Desplaines St & Randolph St,43,Michigan Ave & Washington St,Subscriber,Male,1958,9.13,2019-04-25,25,4,12,67,Male,Subscriber
+22128808,2019-03-25 15:39:29 UTC,2019-03-25 15:44:59 UTC,5145,330,98,LaSalle St & Washington St,43,Michigan Ave & Washington St,Subscriber,Male,1958,5.5,2019-03-25,25,3,15,67,Male,Subscriber
+25946956,2019-12-27 09:40:57 UTC,2019-12-27 10:09:35 UTC,5339,1718,334,Lake Shore Dr & Belmont Ave,43,Michigan Ave & Washington St,Subscriber,Female,1955,28.63,2019-12-27,27,12,9,70,Female,Subscriber
+23041048,2019-06-07 14:38:13 UTC,2019-06-07 16:44:59 UTC,4696,7606,43,Michigan Ave & Washington St,43,Michigan Ave & Washington St,Customer,Female,2000,126.77,2019-06-07,7,6,14,25,Female,Customer
+25562813,2019-10-25 16:43:31 UTC,2019-10-25 17:06:20 UTC,1828,1368,43,Michigan Ave & Washington St,145,Mies van der Rohe Way & Chestnut St,Customer,Male,2000,22.8,2019-10-25,25,10,16,25,Male,Customer
+22720919,2019-05-19 10:09:25 UTC,2019-05-19 10:24:43 UTC,3412,918,37,Dearborn St & Adams St,173,Mies van der Rohe Way & Chicago Ave,Customer,Male,1957,15.3,2019-05-19,19,5,10,68,Male,Customer
+24345837,2019-08-12 22:34:50 UTC,2019-08-12 23:02:55 UTC,5150,1685,6,Dusable Harbor,90,Millennium Park,Customer,Male,2000,28.08,2019-08-12,12,8,22,25,Male,Customer
+23906197,2019-07-23 07:46:22 UTC,2019-07-23 07:57:42 UTC,112,680,7,Field Blvd & South Water St,90,Millennium Park,Subscriber,Male,1959,11.33,2019-07-23,23,7,7,66,Male,Subscriber
+21929682,2019-02-16 11:25:38 UTC,2019-02-16 11:34:58 UTC,4176,560,255,Indiana Ave & Roosevelt Rd,90,Millennium Park,Subscriber,Male,1955,9.33,2019-02-16,16,2,11,70,Male,Subscriber
+24313387,2019-08-10 23:00:55 UTC,2019-08-10 23:11:03 UTC,1946,608,40,LaSalle St & Adams St,90,Millennium Park,Customer,Male,2000,10.13,2019-08-10,10,8,23,25,Male,Customer
+25469942,2019-10-18 12:46:22 UTC,2019-10-18 12:58:04 UTC,4848,701,168,Michigan Ave & 14th St,90,Millennium Park,Subscriber,Male,1955,11.68,2019-10-18,18,10,12,70,Male,Subscriber
+23453239,2019-06-29 15:41:14 UTC,2019-06-29 16:10:41 UTC,1390,1767,85,Michigan Ave & Oak St,90,Millennium Park,Customer,Male,1952,29.45,2019-06-29,29,6,15,73,Male,Customer
