@@ -20,7 +20,7 @@ This project analyzes a full year of ride-sharing data (2019) to explore usage p
 - `ride_sharing_capstone_2019.Rmd`: Full project documentation
 - `dashboard_screenshot.png`: Tableau dashboard snapshot
 - `ride_data.csv`: Cleaned data extract
-- `ride_sharing_capstone_2019.html`: HTML report (optional)
+- `ride_sharing_capstone_2019.html`: HTML report
 
 ## 🌐 Tableau Dashboard
 [🔗 View it on Tableau Public](https://public.tableau.com/app/profile/pooja.kapoor3698)
