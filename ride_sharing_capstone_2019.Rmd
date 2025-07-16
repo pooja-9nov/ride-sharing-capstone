@@ -117,7 +117,7 @@ Visuals created in Tableau:
 - Heatmap: Hour vs Day Ride Density
 - Pie Chart: Gender or Usertype Share
 
-🔗 [Link to Published Tableau Dashboard] *(https://public.tableau.com/app/profile/pooja.kapoor3698)*
+🔗 [Link to Published Tableau Dashboard] [https://public.tableau.com/app/profile/pooja.kapoor3698]
 
 ---
 
