@@ -17,10 +17,9 @@ This project analyzes a full year of ride-sharing data (2019) to explore usage p
 - Gender/user type distributions show actionable user segments.
 
 ## 📄 Files Included
-- `ride_sharing_capstone_2019.Rmd`: Full project documentation
-- `dashboard_screenshot.png`: Tableau dashboard snapshot
-- `ride_data.csv`: Cleaned data extract
-- `ride_sharing_capstone_2019.html`: HTML report
+- [`ride_sharing_capstone_2019.Rmd`] (
+- [`dashboard_screenshot.png`]: Tableau dashboard snapshot
+- [`ride_data.csv`]: Cleaned data extract
 
 ## 🌐 Tableau Dashboard
 [🔗 View it on Tableau Public](https://public.tableau.com/app/profile/pooja.kapoor3698)
