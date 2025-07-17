@@ -18,7 +18,7 @@ This project analyzes a full year of ride-sharing data (2019) to explore usage p
 
 ## 📄 Files Included
 - [`ride_sharing_capstone_2019.Rmd`](https://github.com/pooja-9nov/ride-sharing-capstone/blob/main/ride_sharing_capstone_2019.Rmd)
-- [`monthly_rides.png`]
+- [`monthly_rides.png`](https://github.com/pooja-9nov/ride-sharing-capstone/blob/main/chart1_monthly_rides.png)
 - ['avg_duration.png]
 - ['heatmap.png]
 - [usertype_split.png]
